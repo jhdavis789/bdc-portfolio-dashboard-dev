@@ -1,0 +1,175 @@
+{
+  "ticker": "GBDC",
+  "as_of": "2025-09-30",
+  "source": "GBDC 10-K, accession 0001476765-25-000096",
+  "generated": "2026-03-31T19:57:47Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2024 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 1184625.0,
+      "aggregate_principal_k": 2200500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 4.3%",
+      "maturity": null
+    },
+    {
+      "facility": "2018 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 25881.0,
+      "aggregate_principal_k": 602400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.26161%",
+      "maturity": null
+    },
+    {
+      "facility": "GCIC 2018 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 27602.0,
+      "aggregate_principal_k": 908195.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.26161%",
+      "maturity": null
+    },
+    {
+      "facility": "GBDC 3 2021 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 39189.0,
+      "aggregate_principal_k": 398850.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.26161%",
+      "maturity": null
+    },
+    {
+      "facility": "GBDC 3 2022 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 173187.0,
+      "aggregate_principal_k": 401750.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "GBDC 3 2022-2 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 46849.0,
+      "aggregate_principal_k": 386600.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.6%",
+      "maturity": null
+    },
+    {
+      "facility": "GBDC 3 DB Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 57154.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.7%",
+      "maturity": null
+    },
+    {
+      "facility": "JPM Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 1209252.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.1%",
+      "maturity": null
+    },
+    {
+      "facility": "2024 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.4%",
+      "maturity": "2024"
+    },
+    {
+      "facility": "2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 600000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.3%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.25%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2028 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 453425.0,
+      "aggregate_principal_k": 450000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.45%",
+      "maturity": "2028"
+    },
+    {
+      "facility": "2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 724110.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.35%",
+      "maturity": "2029"
+    },
+    {
+      "facility": "Adviser Revolver",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 1438.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.9%",
+      "maturity": null
+    },
+    {
+      "facility": "2024 Debt Securitization | AAA/AAA Class A -1R 2024 Notes",
+      "type": "clo",
+      "outstanding_principal_k": 1192400.0,
+      "aggregate_principal_k": 1192400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.56%",
+      "maturity": null
+    },
+    {
+      "facility": "2024 Debt Securitization | AAA Class A-2RR 2024 Notes",
+      "type": "clo",
+      "outstanding_principal_k": 171600.0,
+      "aggregate_principal_k": 171600.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.75%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 6256712.0,
+    "total_commitment_k": 8062295.0,
+    "total_available_k": null
+  }
+}

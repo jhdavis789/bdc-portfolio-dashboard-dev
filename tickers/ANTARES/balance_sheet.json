@@ -1,0 +1,35 @@
+{
+  "ticker": "ANTARES",
+  "as_of": "2025-12-31",
+  "source": "ANTARES 10-K, accession 0001193125-26-115260",
+  "generated": "2026-04-15T15:58:02Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Revolving Credit Facility [Member]",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 40000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 40000.0,
+      "rate": "Fixed 6.03%",
+      "maturity": null
+    },
+    {
+      "facility": "Morgan Stanley Facility [Member]",
+      "type": "unknown",
+      "outstanding_principal_k": 910419.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 910419.0,
+      "rate": "Fixed 5.98%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 950419.0,
+    "total_commitment_k": 1500000.0,
+    "total_available_k": null
+  }
+}

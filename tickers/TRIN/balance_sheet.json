@@ -1,0 +1,225 @@
+{
+  "ticker": "TRIN",
+  "as_of": "2025-12-31",
+  "source": "TRIN 10-K, accession 0001193125-26-068600",
+  "generated": "2026-03-31T19:59:32Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Series A Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 142500.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.9%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 6267.0,
+      "aggregate_principal_k": 182500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.0%",
+      "maturity": "2025"
+    },
+    {
+      "facility": "2025 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 125000.0,
+      "aggregate_principal_k": 125000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "August 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 125000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.375%",
+      "maturity": "August 2026"
+    },
+    {
+      "facility": "August 2026 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 125000.0,
+      "aggregate_principal_k": 125000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "August 2026"
+    },
+    {
+      "facility": "December 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.25%",
+      "maturity": "December 2026"
+    },
+    {
+      "facility": "December 2026 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": 75000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "December 2026"
+    },
+    {
+      "facility": "6.00% Convertible Notes due 2025",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 6986.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": 49395.0,
+      "rate": "Fixed 6.0%",
+      "maturity": "due 2025"
+    },
+    {
+      "facility": "6.00% Convertible Notes due 2025 | Private Convertible Note Offering",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "due 2025"
+    },
+    {
+      "facility": "March 2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 122007.0,
+      "aggregate_principal_k": 142166.0,
+      "available_k": null,
+      "net_carrying_value_k": 139701.0,
+      "rate": "Fixed 7.875%",
+      "maturity": "March 2029"
+    },
+    {
+      "facility": "March 2029 Notes | Debt ATM Program",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 27200.0,
+      "aggregate_principal_k": 27200.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "March 2029"
+    },
+    {
+      "facility": "March 2029 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 115000.0,
+      "aggregate_principal_k": 115000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "March 2029"
+    },
+    {
+      "facility": "March 2029 Notes | Unsecured Notes | Underwriters",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 15000.0,
+      "aggregate_principal_k": 15000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "March 2029"
+    },
+    {
+      "facility": "September 2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 118916.0,
+      "aggregate_principal_k": 122215.0,
+      "available_k": null,
+      "net_carrying_value_k": 119348.0,
+      "rate": "Fixed 7.875%",
+      "maturity": "September 2029"
+    },
+    {
+      "facility": "September 2029 Notes | Debt ATM Program",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 7200.0,
+      "aggregate_principal_k": 7200.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "September 2029"
+    },
+    {
+      "facility": "September 2029 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 115000.0,
+      "aggregate_principal_k": 115000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "September 2029"
+    },
+    {
+      "facility": "September 2029 Notes | Unsecured Notes | Underwriters",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 15000.0,
+      "aggregate_principal_k": 15000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "September 2029"
+    },
+    {
+      "facility": "July 2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 61986.0,
+      "aggregate_principal_k": 125000.0,
+      "available_k": null,
+      "net_carrying_value_k": 122111.0,
+      "rate": "Fixed 6.75%",
+      "maturity": "July 2030"
+    },
+    {
+      "facility": "July 2030 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 125000.0,
+      "aggregate_principal_k": 125000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.75%",
+      "maturity": "July 2030"
+    },
+    {
+      "facility": "KeyBank Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 399390.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.9%",
+      "maturity": null
+    },
+    {
+      "facility": "KeyBank Secured Term Loan Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 31233.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.7%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 1883685.0,
+    "total_commitment_k": 1416281.0,
+    "total_available_k": null
+  }
+}

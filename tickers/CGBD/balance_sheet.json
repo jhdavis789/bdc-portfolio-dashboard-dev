@@ -1,0 +1,85 @@
+{
+  "ticker": "CGBD",
+  "as_of": "2025-12-31",
+  "source": "CGBD 10-K, accession 0001544206-26-000013",
+  "generated": "2026-03-31T19:57:12Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Credit Facility | Line of Credit",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 563660.0,
+      "aggregate_principal_k": null,
+      "available_k": 0.3,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.5%",
+      "maturity": null
+    },
+    {
+      "facility": "2028 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 85000.0,
+      "aggregate_principal_k": 85000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 8.2%",
+      "maturity": "2028"
+    },
+    {
+      "facility": "2030 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.45%",
+      "maturity": "2030"
+    },
+    {
+      "facility": "2031 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.35%",
+      "maturity": "2031"
+    },
+    {
+      "facility": "2015-1N Debt | Securitizations",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 410000.0,
+      "available_k": null,
+      "net_carrying_value_k": 377974.0,
+      "rate": "Fixed 5.84%",
+      "maturity": null
+    },
+    {
+      "facility": "CSL III SPV Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2015-1N Debt, Class C-R Notes | Securitizations",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 30000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.75%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 1248660.0,
+    "total_commitment_k": 1125000.0,
+    "total_available_k": 0.3
+  }
+}

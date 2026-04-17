@@ -1,0 +1,115 @@
+{
+  "ticker": "PCAP",
+  "as_of": "2025-12-31",
+  "source": "PCAP 10-K, accession 0001911066-26-000012",
+  "generated": "2026-04-15T15:59:13Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Bank of America Credit Facility | Secured Borrowings | Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 67000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Scotiabank Credit Facility | Secured Borrowings | Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 46000.0,
+      "aggregate_principal_k": 150000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SMBC Revolving Credit Facility | Secured Borrowings | Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 21500.0,
+      "aggregate_principal_k": 100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO-I | Secured Borrowings | Credit Facility",
+      "type": "clo",
+      "outstanding_principal_k": 306000.0,
+      "aggregate_principal_k": 306000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO-II | Secured Borrowings | Credit Facility",
+      "type": "clo",
+      "outstanding_principal_k": 355000.0,
+      "aggregate_principal_k": 355000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bank of America Credit Facility | Credit Facility | Secured Borrowings",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.75%",
+      "maturity": null
+    },
+    {
+      "facility": "Scotiabank Credit Facility | Credit Facility | Secured Borrowings",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 150000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.08%",
+      "maturity": null
+    },
+    {
+      "facility": "SMBC Revolving Credit Facility | Credit Facility | Secured Borrowings",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.0%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO-I | Credit Facility | Secured Borrowings",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 306000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO-II | Credit Facility | Secured Borrowings",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 355000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 795500.0,
+    "total_commitment_k": 2472000.0,
+    "total_available_k": null
+  }
+}

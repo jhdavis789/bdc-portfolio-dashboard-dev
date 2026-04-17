@@ -1,0 +1,105 @@
+{
+  "ticker": "BDEBT",
+  "as_of": "2025-12-31",
+  "source": "BDEBT 10-K, accession 0001193125-26-085372",
+  "generated": "2026-04-15T15:58:29Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Promissory Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 100000.0,
+      "net_carrying_value_k": 110.0,
+      "rate": "Fixed 12.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 650000.0,
+      "net_carrying_value_k": 260000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 365000.0,
+      "net_carrying_value_k": 50971.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SG Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 200000.0,
+      "net_carrying_value_k": 200000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Tranche A Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 70000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Tranche B Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 55000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2025A Tranche B Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 150000.0,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "2025A Tranche A Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 50000.0,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "Total Leverage [Member]",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 836081.0,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": null,
+    "total_commitment_k": null,
+    "total_available_k": 1315000.0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ticker": "NCDL",
+  "as_of": "2025-12-31",
+  "source": "NCDL 10-K, accession 0001737924-26-000014",
+  "generated": "2026-03-31T19:58:34Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 309915.0,
+      "rate": "Fixed 6.65%",
+      "maturity": "2030"
+    },
+    {
+      "facility": "CLO-I | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 321083.0,
+      "aggregate_principal_k": 321083.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO-II | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 213286.0,
+      "aggregate_principal_k": 213286.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.35%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO-III | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 213750.0,
+      "aggregate_principal_k": 213750.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Secured Debt | 2030 Notes | Credit Facility",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2030"
+    },
+    {
+      "facility": "Secured Debt | Wells Fargo Financing Facility | Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 106000.0,
+      "aggregate_principal_k": 225000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Secured Debt | Revolving Credit Facility | Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 66000.0,
+      "aggregate_principal_k": 325000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.1%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 1520119.0,
+    "total_commitment_k": 1898119.0,
+    "total_available_k": null
+  }
+}

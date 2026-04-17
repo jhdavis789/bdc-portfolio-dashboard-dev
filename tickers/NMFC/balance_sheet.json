@@ -1,0 +1,205 @@
+{
+  "ticker": "NMFC",
+  "as_of": "2025-12-31",
+  "source": "NMFC 10-K, accession 0001496099-26-000008",
+  "generated": "2026-03-31T19:58:42Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Holdings Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 420063.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Credit Facility | Holdings Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 515063.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.8%",
+      "maturity": null
+    },
+    {
+      "facility": "NMFC Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 81074.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Credit Facility | NMFC Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 36813.0,
+      "aggregate_principal_k": null,
+      "available_k": 0.375,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 11.2%",
+      "maturity": null
+    },
+    {
+      "facility": "Convertible Notes | 2018 Convertible Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 86250.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.75%",
+      "maturity": "2018"
+    },
+    {
+      "facility": "Convertible Notes | 2022 Convertible Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 7000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2022"
+    },
+    {
+      "facility": "Unsecured Notes | Minimum",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 150000.0,
+      "aggregate_principal_k": 150000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2016 Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.313%",
+      "maturity": "2016"
+    },
+    {
+      "facility": "2017A Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 55000.0,
+      "aggregate_principal_k": 55000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.76%",
+      "maturity": "2017"
+    },
+    {
+      "facility": "2018A Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 90000.0,
+      "aggregate_principal_k": 90000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.87%",
+      "maturity": "2018"
+    },
+    {
+      "facility": "2018B Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.36%",
+      "maturity": "2018"
+    },
+    {
+      "facility": "2019A Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 116500.0,
+      "aggregate_principal_k": 116500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.494%",
+      "maturity": "2019"
+    },
+    {
+      "facility": "2021A Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 200000.0,
+      "aggregate_principal_k": 200000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.875%",
+      "maturity": "2021"
+    },
+    {
+      "facility": "2022A Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": 75000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.9%",
+      "maturity": "2022"
+    },
+    {
+      "facility": "8.250% Unsecured Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 115000.0,
+      "aggregate_principal_k": 115000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 8.25%",
+      "maturity": null
+    },
+    {
+      "facility": "6.875% Notes due 2029 | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.8183%",
+      "maturity": "due 2029"
+    },
+    {
+      "facility": "6.200% Notes due 2027 | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.882%",
+      "maturity": "due 2027"
+    },
+    {
+      "facility": "6.875% Notes due 2029",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 303000.0,
+      "rate": "Fixed 6.875%",
+      "maturity": "due 2029"
+    },
+    {
+      "facility": "6.200% Notes due 2027",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 298585.0,
+      "rate": "Fixed 6.2%",
+      "maturity": "due 2027"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 2554513.0,
+    "total_commitment_k": 1594750.0,
+    "total_available_k": 0.375
+  }
+}

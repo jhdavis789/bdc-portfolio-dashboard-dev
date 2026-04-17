@@ -1,0 +1,95 @@
+{
+  "ticker": "MSDL",
+  "as_of": "2025-12-31",
+  "source": "MSDL 10-K, accession 0001193125-26-076632",
+  "generated": "2026-03-31T19:58:30Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "BNP Funding Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 351000.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.99%",
+      "maturity": null
+    },
+    {
+      "facility": "Truist Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 308153.0,
+      "aggregate_principal_k": 1450000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.76%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2025-1 Issued Debt [Member] | Line of Credit",
+      "type": "clo",
+      "outstanding_principal_k": 309000.0,
+      "aggregate_principal_k": 309000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2027 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 425000.0,
+      "aggregate_principal_k": 425000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.88%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2025 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 0.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.98%",
+      "maturity": "2025"
+    },
+    {
+      "facility": "2029 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.82%",
+      "maturity": "2029"
+    },
+    {
+      "facility": "2030 Notes [Member] | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2030"
+    },
+    {
+      "facility": "2030 Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.4%",
+      "maturity": "2030"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 2443153.0,
+    "total_commitment_k": 3834000.0,
+    "total_available_k": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "ticker": "OBDC2",
+  "as_of": "2025-12-31",
+  "source": "OBDC2 10-K, accession 0001655887-26-000010",
+  "generated": "2026-04-15T15:58:47Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Line of Credit | Revolving Credit Facility | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 11598.0,
+      "aggregate_principal_k": 225000.0,
+      "available_k": null,
+      "net_carrying_value_k": 9284.0,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Line of Credit | SPV Asset Facility I",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 315000.0,
+      "aggregate_principal_k": 375000.0,
+      "available_k": null,
+      "net_carrying_value_k": 311673.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Secured Debt | CLO XIII",
+      "type": "clo",
+      "outstanding_principal_k": 260000.0,
+      "aggregate_principal_k": 399300.0,
+      "available_k": null,
+      "net_carrying_value_k": 257905.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Unsecured debt investments | 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 347850.0,
+      "rate": null,
+      "maturity": "2026"
+    },
+    {
+      "facility": "Middle Market Loans | CLO XIII Issuer",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 36400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XIII Issuer | ORCC II Financing LLC and OR Lending II LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 298500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XIII, Class A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 228000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.55%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XIII, Class B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 32000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.35%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 936598.0,
+    "total_commitment_k": 1594200.0,
+    "total_available_k": null
+  }
+}

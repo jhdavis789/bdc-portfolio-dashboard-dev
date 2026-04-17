@@ -1,0 +1,195 @@
+{
+  "ticker": "GCRED",
+  "as_of": "2025-09-30",
+  "source": "GCRED 10-K, accession 0001930087-25-000070",
+  "generated": "2026-04-15T15:58:37Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2025-R Debt Securitization And 2023 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 42989.0,
+      "aggregate_principal_k": 693620.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 4.9%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 868570.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 4.2%",
+      "maturity": null
+    },
+    {
+      "facility": "SMBC Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 31041.0,
+      "aggregate_principal_k": 3000000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.1%",
+      "maturity": null
+    },
+    {
+      "facility": "BANA Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.7%",
+      "maturity": null
+    },
+    {
+      "facility": "2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.0%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2028 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.3%",
+      "maturity": "2028"
+    },
+    {
+      "facility": "2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.4%",
+      "maturity": "2029"
+    },
+    {
+      "facility": "2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.3%",
+      "maturity": "2030"
+    },
+    {
+      "facility": "Adviser Revolver",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 21086.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.5%",
+      "maturity": null
+    },
+    {
+      "facility": "Other short-term borrowings",
+      "type": "unknown",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.5%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class A-1 2025 Notes",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 430000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.47%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class A-2 2025 Notes",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 14440.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.65%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class B 2025 Notes",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 59650.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class A-1L-1 2025 Loans",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 60000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.47%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class A-1L-2 2025 Loans",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 10000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.47%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class A-2L 2025 Loans",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 20000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.65%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Debt Securitization | Class B-L 2025 Loans",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 5000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "2025-R Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 931550.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.45%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 95116.0,
+    "total_commitment_k": 7592830.0,
+    "total_available_k": null
+  }
+}

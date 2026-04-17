@@ -1,0 +1,337 @@
+{
+  "bdcs": [
+    {
+      "ticker": "ADS",
+      "name": "Apollo Debt Solutions BDC",
+      "period_end": "2025-12-31",
+      "num_investments": 2597,
+      "total_fv_k": 172435004.11,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "ANTARES",
+      "name": "ANTARES",
+      "period_end": "2025-12-31",
+      "num_investments": 1589,
+      "total_fv_k": 3347386.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "ARCC",
+      "name": "ARES CAPITAL CORP",
+      "period_end": "2025-12-31",
+      "num_investments": 877,
+      "total_fv_k": 20577800.0,
+      "has_balance_sheet": true,
+      "has_sponsors": true
+    },
+    {
+      "ticker": "ASIF",
+      "name": "ASIF",
+      "period_end": "2025-12-31",
+      "num_investments": 2048,
+      "total_fv_k": 33486555.2,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "BBDC",
+      "name": "Barings BDC Inc",
+      "period_end": "2025-12-31",
+      "num_investments": 1294,
+      "total_fv_k": 4620635.28,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "BCRED",
+      "name": "BCRED",
+      "period_end": "2025-12-31",
+      "num_investments": 3664,
+      "total_fv_k": 168617797.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "BCSF",
+      "name": "Bain Capital Specialty Finance, Inc.",
+      "period_end": "2025-12-31",
+      "num_investments": 438,
+      "total_fv_k": 2563679.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "BDEBT",
+      "name": "BDEBT",
+      "period_end": "2025-12-31",
+      "num_investments": 706,
+      "total_fv_k": 3282752.61,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "BXSL",
+      "name": "Blackstone Secured Lending Fund",
+      "period_end": "2025-09-30",
+      "num_investments": 1161,
+      "total_fv_k": 24975802.72,
+      "has_balance_sheet": true,
+      "has_sponsors": true
+    },
+    {
+      "ticker": "CCAP",
+      "name": "Crescent Capital BDC Inc",
+      "period_end": "2025-12-31",
+      "num_investments": 1091,
+      "total_fv_k": 6051517.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "CGBD",
+      "name": "Carlyle Secured Lending Inc",
+      "period_end": "2025-12-31",
+      "num_investments": 482,
+      "total_fv_k": 3826653.6,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "CION",
+      "name": "CION Investment Corporation",
+      "period_end": "2025-12-31",
+      "num_investments": 536,
+      "total_fv_k": 2975851.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "FSK",
+      "name": "FS KKR Capital Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 753,
+      "total_fv_k": 14528700.0,
+      "has_balance_sheet": true,
+      "has_sponsors": true
+    },
+    {
+      "ticker": "GBDC",
+      "name": "Golub Capital BDC Inc",
+      "period_end": "2025-12-31",
+      "num_investments": 368,
+      "total_fv_k": 30841480.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "GCRED",
+      "name": "GCRED",
+      "period_end": "2025-12-31",
+      "num_investments": 1977,
+      "total_fv_k": 18337739.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "GSBD",
+      "name": "Goldman Sachs BDC, Inc.",
+      "period_end": "2025-12-31",
+      "num_investments": 592,
+      "total_fv_k": 3324620.0,
+      "has_balance_sheet": true,
+      "has_sponsors": true
+    },
+    {
+      "ticker": "HLEND",
+      "name": "HLEND",
+      "period_end": "2025-12-31",
+      "num_investments": 1646,
+      "total_fv_k": 45399415.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "HTGC",
+      "name": "Hercules Capital Inc",
+      "period_end": "2025-12-31",
+      "num_investments": 745,
+      "total_fv_k": 8745818.49,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "KBDC",
+      "name": "Kayne Anderson BDC Inc",
+      "period_end": "2025-12-31",
+      "num_investments": 269,
+      "total_fv_k": 4311246.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "MAIN",
+      "name": "Main Street Capital Corporation",
+      "period_end": "2025-12-31",
+      "num_investments": 1458,
+      "total_fv_k": 6971686.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "MFIC",
+      "name": "MidCap Financial Investment Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 1760,
+      "total_fv_k": 3069728.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "MSDL",
+      "name": "Morgan Stanley Direct Lending Fund",
+      "period_end": "2025-12-31",
+      "num_investments": 781,
+      "total_fv_k": 7455764.06,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "NCDL",
+      "name": "Nuveen Churchill Direct Lending Fund",
+      "period_end": "2025-12-31",
+      "num_investments": 822,
+      "total_fv_k": 3551559.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "NMFC",
+      "name": "New Mountain Finance Corporation",
+      "period_end": "2025-12-31",
+      "num_investments": 552,
+      "total_fv_k": 3567820.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OBDC",
+      "name": "Blue Owl Capital Corporation",
+      "period_end": "2025-12-31",
+      "num_investments": 465,
+      "total_fv_k": 16200601.9,
+      "has_balance_sheet": true,
+      "has_sponsors": true
+    },
+    {
+      "ticker": "OBDC2",
+      "name": "OBDC2",
+      "period_end": "2025-12-31",
+      "num_investments": 325,
+      "total_fv_k": 52963282.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OCIC",
+      "name": "OCIC",
+      "period_end": "2025-12-31",
+      "num_investments": 597,
+      "total_fv_k": 44188557.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OCREDIT",
+      "name": "OCREDIT",
+      "period_end": "2025-12-31",
+      "num_investments": 650,
+      "total_fv_k": 5183856.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OCSL",
+      "name": "Oaktree Specialty Lending Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 719,
+      "total_fv_k": 5064907.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OSCF",
+      "name": "OSCF",
+      "period_end": "2025-12-31",
+      "num_investments": 738,
+      "total_fv_k": 15925305.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OTF",
+      "name": "Blue Owl Technology Finance Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 314,
+      "total_fv_k": 7402966.8,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "OTIC",
+      "name": "OTIC",
+      "period_end": "2025-12-31",
+      "num_investments": 266,
+      "total_fv_k": 6209484.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "PCAP",
+      "name": "Nuveen Churchill Private Capital Income Fund",
+      "period_end": "2025-12-31",
+      "num_investments": 776,
+      "total_fv_k": 17240720.06,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "PSEC",
+      "name": "Prospect Capital Corporation",
+      "period_end": "2025-12-31",
+      "num_investments": 639,
+      "total_fv_k": 146429.37,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "RWAY",
+      "name": "Runway Growth Finance Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 196,
+      "total_fv_k": 1976165.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "SLRC",
+      "name": "SLR Investment Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 169,
+      "total_fv_k": 2657929.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "TCAP",
+      "name": "TCAP",
+      "period_end": "2025-12-31",
+      "num_investments": 1533,
+      "total_fv_k": 7462203.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "TCPC",
+      "name": "BlackRock TCP Capital Corp.",
+      "period_end": "2025-12-31",
+      "num_investments": 278,
+      "total_fv_k": 1726432.66,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "TPVG",
+      "name": "TriplePoint Venture Growth BDC Corp",
+      "period_end": "2025-12-31",
+      "num_investments": 649,
+      "total_fv_k": 1250494.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "TRIN",
+      "name": "Trinity Capital Inc.",
+      "period_end": "2025-12-31",
+      "num_investments": 824,
+      "total_fv_k": 4269901.0,
+      "has_balance_sheet": true
+    },
+    {
+      "ticker": "TSLX",
+      "name": "Sixth Street Specialty Lending, Inc.",
+      "period_end": "2025-12-31",
+      "num_investments": 228,
+      "total_fv_k": 3372847.0,
+      "has_balance_sheet": true
+    }
+  ]
+}

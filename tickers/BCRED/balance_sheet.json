@@ -1,0 +1,665 @@
+{
+  "ticker": "BCRED",
+  "as_of": "2025-12-31",
+  "source": "BCRED 10-K, accession 0001803498-26-000014",
+  "generated": "2026-04-15T15:58:28Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Monarch Peak Funding Facility",
+      "type": "secured_spv",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bear Peak Funding Facility",
+      "type": "secured_spv",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 587600.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.95%",
+      "maturity": null
+    },
+    {
+      "facility": "Phoenix Peak Funding Facility",
+      "type": "secured_spv",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 221455000.0,
+      "available_k": 0.78,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.75%",
+      "maturity": null
+    },
+    {
+      "facility": "2026 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": 399584.0,
+      "rate": "Fixed 3.27%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "May 2027 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 625000.0,
+      "aggregate_principal_k": 625000.0,
+      "available_k": null,
+      "net_carrying_value_k": 620163.0,
+      "rate": "Fixed 5.61%",
+      "maturity": "May 2027"
+    },
+    {
+      "facility": "October 2027 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": 349354.0,
+      "rate": "Fixed 7.49%",
+      "maturity": "October 2027"
+    },
+    {
+      "facility": "March 2031 5.54% Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 498066.0,
+      "rate": "Fixed 5.54%",
+      "maturity": "March 2031"
+    },
+    {
+      "facility": "March 2033 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 494769.0,
+      "rate": "Fixed 5.79%",
+      "maturity": "March 2033"
+    },
+    {
+      "facility": "December 2026 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1250000.0,
+      "aggregate_principal_k": 1250000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1233234.0,
+      "rate": "Fixed 2.625%",
+      "maturity": "December 2026"
+    },
+    {
+      "facility": "December 2026 Notes Upsize | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.625%",
+      "maturity": "December 2026"
+    },
+    {
+      "facility": "November 2026 Eurobonds | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 587600.0,
+      "aggregate_principal_k": 587600.0,
+      "available_k": null,
+      "net_carrying_value_k": 586175.0,
+      "rate": "Fixed 1.75%",
+      "maturity": "November 2026"
+    },
+    {
+      "facility": "March 2027 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 996741.0,
+      "rate": "Fixed 3.25%",
+      "maturity": "March 2027"
+    },
+    {
+      "facility": "January 2025 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 499806.0,
+      "rate": "Fixed 2.7%",
+      "maturity": "January 2025"
+    },
+    {
+      "facility": "January 2029 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": 644590.0,
+      "rate": "Fixed 4.0%",
+      "maturity": "January 2029"
+    },
+    {
+      "facility": "March 2025 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 900000.0,
+      "aggregate_principal_k": 900000.0,
+      "available_k": null,
+      "net_carrying_value_k": 895447.0,
+      "rate": "Fixed 4.7%",
+      "maturity": "March 2025"
+    },
+    {
+      "facility": "April 2026 UK Bonds | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 336988.0,
+      "aggregate_principal_k": 336988.0,
+      "available_k": null,
+      "net_carrying_value_k": 335202.0,
+      "rate": "Fixed 4.875%",
+      "maturity": "April 2026"
+    },
+    {
+      "facility": "Unsecured debt | September 2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 800000.0,
+      "aggregate_principal_k": 800000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.05%",
+      "maturity": "September 2025"
+    },
+    {
+      "facility": "Unsecured debt | September 2025 Notes Upsize",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 200000.0,
+      "aggregate_principal_k": 200000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.05%",
+      "maturity": "September 2025"
+    },
+    {
+      "facility": "Unsecured debt | November 2028 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.3%",
+      "maturity": "November 2028"
+    },
+    {
+      "facility": "Unsecured debt | November 2028 Notes Upsize",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 150000.0,
+      "aggregate_principal_k": 150000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.3%",
+      "maturity": "November 2028"
+    },
+    {
+      "facility": "January 2031 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 600000.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": 596471.0,
+      "rate": "Fixed 6.25%",
+      "maturity": "January 2031"
+    },
+    {
+      "facility": "January 2031 Notes Upsize | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 100000.0,
+      "aggregate_principal_k": 100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.25%",
+      "maturity": "January 2031"
+    },
+    {
+      "facility": "July 2029 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 900000.0,
+      "aggregate_principal_k": 900000.0,
+      "available_k": null,
+      "net_carrying_value_k": 910031.0,
+      "rate": "Fixed 5.95%",
+      "maturity": "July 2029"
+    },
+    {
+      "facility": "July 2029 Notes Upsize | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.95%",
+      "maturity": "July 2029"
+    },
+    {
+      "facility": "September 2027 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": 395183.0,
+      "rate": "Fixed 4.95%",
+      "maturity": "September 2027"
+    },
+    {
+      "facility": "April 2030 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": 388785.0,
+      "rate": "Fixed 5.25%",
+      "maturity": "April 2030"
+    },
+    {
+      "facility": "November 2029 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": 400465.0,
+      "rate": "Fixed 5.6%",
+      "maturity": "November 2029"
+    },
+    {
+      "facility": "November 2034 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 800000.0,
+      "aggregate_principal_k": 800000.0,
+      "available_k": null,
+      "net_carrying_value_k": 785348.0,
+      "rate": "Fixed 6.0%",
+      "maturity": "November 2034"
+    },
+    {
+      "facility": "January 2032 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1009275.0,
+      "rate": "Fixed 6.0%",
+      "maturity": "January 2032"
+    },
+    {
+      "facility": "September 2030 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 487697.0,
+      "rate": "Fixed 5.05%",
+      "maturity": "September 2030"
+    },
+    {
+      "facility": "2021-1 BSL Notes | Secured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 876600.0,
+      "aggregate_principal_k": 876600.0,
+      "available_k": null,
+      "net_carrying_value_k": 662170.0,
+      "rate": null,
+      "maturity": "2021"
+    },
+    {
+      "facility": "2021-2 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 603700.0,
+      "aggregate_principal_k": 603700.0,
+      "available_k": null,
+      "net_carrying_value_k": 504647.0,
+      "rate": null,
+      "maturity": "2021"
+    },
+    {
+      "facility": "2021-1 MML Debt",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2022-1 MML Debt",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2022-1 BSL Debt",
+      "type": "unknown",
+      "outstanding_principal_k": 420000.0,
+      "aggregate_principal_k": 589800.0,
+      "available_k": null,
+      "net_carrying_value_k": 418788.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "MML 2022-2 Debt",
+      "type": "unknown",
+      "outstanding_principal_k": 300500.0,
+      "aggregate_principal_k": 300500.0,
+      "available_k": null,
+      "net_carrying_value_k": 298513.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2023-1 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 305000.0,
+      "aggregate_principal_k": 305000.0,
+      "available_k": null,
+      "net_carrying_value_k": 303368.0,
+      "rate": null,
+      "maturity": "2023"
+    },
+    {
+      "facility": "2024-1 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 244000.0,
+      "aggregate_principal_k": 244000.0,
+      "available_k": null,
+      "net_carrying_value_k": 242484.0,
+      "rate": null,
+      "maturity": "2024"
+    },
+    {
+      "facility": "2024-2 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 305000.0,
+      "aggregate_principal_k": 305000.0,
+      "available_k": null,
+      "net_carrying_value_k": 302181.0,
+      "rate": null,
+      "maturity": "2024"
+    },
+    {
+      "facility": "2025-1 Lender Finance",
+      "type": "unknown",
+      "outstanding_principal_k": 890000.0,
+      "aggregate_principal_k": 890000.0,
+      "available_k": null,
+      "net_carrying_value_k": 887425.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2025-1 BSL Static Debt Securitization",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 851700.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bard Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1650000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1549670.0,
+      "rate": "Fixed 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "Castle Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 2550000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1760209.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Summit Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1375000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1257548.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Denali Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": 584800.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bushnell Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 554300.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Granite Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 500000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 890000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bison Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1437200.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Blanca Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1100000.0,
+      "available_k": null,
+      "net_carrying_value_k": 951000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Windom Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 2150000.0,
+      "available_k": null,
+      "net_carrying_value_k": 2150076.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Monarch Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1500000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Meridian Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": 246000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Haydon Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 250000.0,
+      "available_k": null,
+      "net_carrying_value_k": 212000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bear Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 587600.0,
+      "available_k": null,
+      "net_carrying_value_k": 587017.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Phoenix Peak Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 221455.0,
+      "available_k": null,
+      "net_carrying_value_k": 220354.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Credit Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 5800000.0,
+      "available_k": null,
+      "net_carrying_value_k": 2259240.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "September 2025 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 800000.0,
+      "aggregate_principal_k": 800000.0,
+      "available_k": null,
+      "net_carrying_value_k": 796012.0,
+      "rate": "Fixed 7.05%",
+      "maturity": "September 2025"
+    },
+    {
+      "facility": "November 2028 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": 661542.0,
+      "rate": "Fixed 7.3%",
+      "maturity": "November 2028"
+    },
+    {
+      "facility": "MML 2021-1 Debt | Secured debt",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 690000.0,
+      "available_k": null,
+      "net_carrying_value_k": 686824.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "MML 2022-1 Debt | Secured debt",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 759000.0,
+      "available_k": null,
+      "net_carrying_value_k": 754904.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2025-1 Notes | Secured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 884000.0,
+      "aggregate_principal_k": 884000.0,
+      "available_k": null,
+      "net_carrying_value_k": 880799.0,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "2025-1 BSL Notes | Secured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 661625.0,
+      "aggregate_principal_k": 661625.0,
+      "available_k": null,
+      "net_carrying_value_k": 659634.0,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "Short-Term Borrowings",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 856829.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2025-2 Lender Finance Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 882500.0,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 22190013.0,
+    "total_commitment_k": 273327997.0,
+    "total_available_k": 0.78
+  }
+}

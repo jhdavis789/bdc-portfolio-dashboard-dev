@@ -1,0 +1,165 @@
+{
+  "ticker": "MAIN",
+  "as_of": "2025-12-31",
+  "source": "MAIN 10-K, accession 0001396440-26-000016",
+  "generated": "2026-03-31T19:58:19Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "July 2026 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 200000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.0%",
+      "maturity": "July 2026"
+    },
+    {
+      "facility": "June 2027 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.5%",
+      "maturity": "June 2027"
+    },
+    {
+      "facility": "August 2028 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.4%",
+      "maturity": "August 2028"
+    },
+    {
+      "facility": "March 2029 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.95%",
+      "maturity": "March 2029"
+    },
+    {
+      "facility": "SBIC debentures | Unsecured Notes",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.3%",
+      "maturity": null
+    },
+    {
+      "facility": "December 2025 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 150000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "December 2025"
+    },
+    {
+      "facility": "Credit Facility | Corporate Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 432000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Credit Facility | SPV Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 86000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Weighted-Average",
+      "type": "unknown",
+      "outstanding_principal_k": 2229700.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.7%",
+      "maturity": null
+    },
+    {
+      "facility": "June 2027 Notes, Additional | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 100000.0,
+      "aggregate_principal_k": 100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.617%",
+      "maturity": "June 2027"
+    },
+    {
+      "facility": "SBIC debentures | Unsecured Notes | MSMF",
+      "type": "sba_debenture",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 175000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SBIC debentures | Unsecured Notes | MSC III",
+      "type": "sba_debenture",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 175000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SBIC debentures | Unsecured Notes | Maximum",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "December 2025 Series A Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 100000.0,
+      "aggregate_principal_k": 100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.84%",
+      "maturity": "December 2025"
+    },
+    {
+      "facility": "December 2025 Series B Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.53%",
+      "maturity": "December 2025"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 5447700.0,
+    "total_commitment_k": 2150000.0,
+    "total_available_k": null
+  }
+}

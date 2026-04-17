@@ -1,0 +1,3224 @@
+{
+  "bdc_name": "SLR Investment Corp",
+  "ticker": "SLRC",
+  "filing_type": "10-K",
+  "period_end": "2025-12-31",
+  "total_fair_value_k": 2657929.0,
+  "total_cost_k": 6350178.0,
+  "debt_par_k": 2419297.0,
+  "num_investments": 169,
+  "num_companies_approx": 97,
+  "investments": [
+    {
+      "company": "33Across Inc.",
+      "industry": "Media",
+      "maturity": "2027-10-01",
+      "acquisition_date": "1/2024",
+      "cash_rate_pct": 10.5,
+      "spread_bps": 200.0,
+      "par_amount_k": 2249.0,
+      "amortized_cost_k": 2249.0,
+      "fair_value_k": 2249.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc."
+      }
+    },
+    {
+      "company": "Alkeme Intermediary Holdings, LLC",
+      "industry": "Insurance",
+      "maturity": "2027-05-01",
+      "acquisition_date": "9/2023",
+      "cash_rate_pct": 8.67,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 17384.0,
+      "amortized_cost_k": 17141.0,
+      "fair_value_k": 17384.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.42,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "All States Ag Parts, LLC",
+      "industry": "Trading Companies & Distributors",
+      "maturity": "2026-09-01",
+      "acquisition_date": "4/2022",
+      "cash_rate_pct": 10.43,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 2213.0,
+      "amortized_cost_k": 2206.0,
+      "fair_value_k": 2213.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.32,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC"
+      }
+    },
+    {
+      "company": "BayMark Health Services, Inc.",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2027-06-01",
+      "acquisition_date": "4/2022",
+      "cash_rate_pct": 8.93,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 8179.0,
+      "amortized_cost_k": 8068.0,
+      "fair_value_k": 7770.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -3.69,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc."
+      }
+    },
+    {
+      "company": "Bayside Opco, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-05-01",
+      "acquisition_date": "5/2023",
+      "cash_rate_pct": 11.07,
+      "reference_rate": "SOFR",
+      "spread_bps": 725.0,
+      "par_amount_k": 19725.0,
+      "amortized_cost_k": 19725.0,
+      "fair_value_k": 19725.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC"
+      }
+    },
+    {
+      "company": "Bayside Parent, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-05-01",
+      "acquisition_date": "5/2023",
+      "cash_rate_pct": 13.82,
+      "reference_rate": "SOFR",
+      "spread_bps": 1000.0,
+      "par_amount_k": 6933.0,
+      "amortized_cost_k": 6933.0,
+      "fair_value_k": 6933.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC"
+      }
+    },
+    {
+      "company": "BDG Media, Inc.",
+      "industry": "Media",
+      "maturity": "2026-07-01",
+      "acquisition_date": "7/2022",
+      "cash_rate_pct": 12.0,
+      "spread_bps": 525.0,
+      "par_amount_k": 7054.0,
+      "amortized_cost_k": 7054.0,
+      "fair_value_k": 7054.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc."
+      }
+    },
+    {
+      "company": "Blazing Star Parent, LLC",
+      "industry": "Consumer Staples Distribution & Retail",
+      "maturity": "2030-08-01",
+      "acquisition_date": "8/2025",
+      "cash_rate_pct": 10.82,
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 16293.0,
+      "amortized_cost_k": 16065.0,
+      "fair_value_k": 16293.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.42,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Blazing%20Star%20Parent%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Blazing%20Star%20Parent%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Blazing%20Star%20Parent%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Blazing%20Star%20Parent%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Blazing%20Star%20Parent%2C%20LLC"
+      }
+    },
+    {
+      "company": "CC SAG Holdings Corp.(Spectrum Automotive)",
+      "industry": "Diversified Consumer Services",
+      "maturity": "2028-06-01",
+      "acquisition_date": "6/2021",
+      "cash_rate_pct": 8.97,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 28756.0,
+      "amortized_cost_k": 28475.0,
+      "fair_value_k": 28756.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.99,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29"
+      }
+    },
+    {
+      "company": "Clifford Loan Ventures, LLC & Clifford Preferred Ventures Holdings LLC",
+      "industry": "Capital Markets",
+      "maturity": "2028-09-01",
+      "acquisition_date": "9/2025",
+      "cash_rate_pct": 10.88,
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 30833.0,
+      "amortized_cost_k": 30356.0,
+      "fair_value_k": 30833.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.57,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Clifford%20Loan%20Ventures%2C%20LLC%20%26%20Clifford%20Preferred%20Ventures%20Holdings%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Clifford%20Loan%20Ventures%2C%20LLC%20%26%20Clifford%20Preferred%20Ventures%20Holdings%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Clifford%20Loan%20Ventures%2C%20LLC%20%26%20Clifford%20Preferred%20Ventures%20Holdings%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Clifford%20Loan%20Ventures%2C%20LLC%20%26%20Clifford%20Preferred%20Ventures%20Holdings%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Clifford%20Loan%20Ventures%2C%20LLC%20%26%20Clifford%20Preferred%20Ventures%20Holdings%20LLC"
+      }
+    },
+    {
+      "company": "Copper River Seafoods, Inc.",
+      "industry": "Food Products",
+      "maturity": "2028-04-01",
+      "acquisition_date": "12/2023",
+      "cash_rate_pct": 8.75,
+      "spread_bps": 200.0,
+      "par_amount_k": 1197.0,
+      "amortized_cost_k": 1197.0,
+      "fair_value_k": 1197.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc."
+      }
+    },
+    {
+      "company": "CVAUSA Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-05-01",
+      "acquisition_date": "5/2023",
+      "cash_rate_pct": 8.97,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 18630.0,
+      "amortized_cost_k": 18424.0,
+      "fair_value_k": 18630.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.12,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "DeepIntent, Inc.",
+      "industry": "Media",
+      "maturity": "2030-09-01",
+      "acquisition_date": "12/2023",
+      "cash_rate_pct": 8.1,
+      "spread_bps": 135.0,
+      "par_amount_k": 2965.0,
+      "amortized_cost_k": 2965.0,
+      "fair_value_k": 2965.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc."
+      }
+    },
+    {
+      "company": "Enhanced Permanent Capital, LLC",
+      "industry": "Capital Markets",
+      "maturity": "2029-06-01",
+      "acquisition_date": "12/2020",
+      "cash_rate_pct": 10.72,
+      "reference_rate": "SOFR",
+      "spread_bps": 625.0,
+      "par_amount_k": 55106.0,
+      "amortized_cost_k": 54143.0,
+      "fair_value_k": 54142.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC"
+      }
+    },
+    {
+      "company": "EyeSouth Eye Care Holdco LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-10-01",
+      "acquisition_date": "10/2022",
+      "cash_rate_pct": 9.32,
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 2223.0,
+      "amortized_cost_k": 2172.0,
+      "fair_value_k": 2223.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.35,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC"
+      }
+    },
+    {
+      "company": "FE Advance, LLC & Sonic ACA Advance LLC",
+      "industry": "Financial Services",
+      "maturity": "2027-07-01",
+      "acquisition_date": "7/2024",
+      "cash_rate_pct": 10.38,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 20894.0,
+      "amortized_cost_k": 20649.0,
+      "fair_value_k": 20894.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.19,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC%20%26%20Sonic%20ACA%20Advance%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC%20%26%20Sonic%20ACA%20Advance%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC%20%26%20Sonic%20ACA%20Advance%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC%20%26%20Sonic%20ACA%20Advance%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC%20%26%20Sonic%20ACA%20Advance%20LLC"
+      }
+    },
+    {
+      "company": "Fertility (ITC) Investment Holdco, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-01-01",
+      "acquisition_date": "1/2023",
+      "cash_rate_pct": 9.12,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 26280.0,
+      "amortized_cost_k": 25890.0,
+      "fair_value_k": 26280.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.51,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC"
+      }
+    },
+    {
+      "company": "Human Interest Inc.",
+      "industry": "Professional Services",
+      "maturity": "2027-07-01",
+      "acquisition_date": "6/2022",
+      "cash_rate_pct": 10.12,
+      "reference_rate": "SOFR",
+      "spread_bps": 625.0,
+      "par_amount_k": 20104.0,
+      "amortized_cost_k": 20265.0,
+      "fair_value_k": 20305.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.2,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc."
+      }
+    },
+    {
+      "company": "iCIMS, Inc.",
+      "industry": "Software",
+      "maturity": "2028-08-01",
+      "acquisition_date": "8/2022",
+      "cash_rate_pct": 9.59,
+      "reference_rate": "SOFR",
+      "spread_bps": 575.0,
+      "par_amount_k": 26040.0,
+      "amortized_cost_k": 25831.0,
+      "fair_value_k": 26040.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.81,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc."
+      }
+    },
+    {
+      "company": "Infillion Inc.",
+      "industry": "Professional Services",
+      "maturity": "2028-04-01",
+      "acquisition_date": "5/2025",
+      "cash_rate_pct": 8.5,
+      "spread_bps": 175.0,
+      "par_amount_k": 23226.0,
+      "amortized_cost_k": 23226.0,
+      "fair_value_k": 23226.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Infillion%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Infillion%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Infillion%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Infillion%20Inc."
+      }
+    },
+    {
+      "company": "Insight Investments Holdings, LLC",
+      "industry": "Financial Services",
+      "maturity": "2030-10-01",
+      "acquisition_date": "6/2025",
+      "cash_rate_pct": 9.99,
+      "reference_rate": "SOFR",
+      "spread_bps": 625.0,
+      "par_amount_k": 45000.0,
+      "amortized_cost_k": 44572.0,
+      "fair_value_k": 45000.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.96,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Insight%20Investments%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Insight%20Investments%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Insight%20Investments%20Holdings%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Insight%20Investments%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Insight%20Investments%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "Kingsbridge Holdings, LLC",
+      "industry": "Multi-Sector Holdings",
+      "maturity": "2027-12-01",
+      "acquisition_date": "12/2018",
+      "cash_rate_pct": 10.84,
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 142500.0,
+      "amortized_cost_k": 142349.0,
+      "fair_value_k": 142500.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.11,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "Logix Holding Company, LLC",
+      "industry": "Communications Equipment",
+      "maturity": "2028-12-01",
+      "acquisition_date": "9/2018",
+      "cash_rate_pct": 11.41,
+      "reference_rate": "SOFR",
+      "spread_bps": 750.0,
+      "par_amount_k": 10459.0,
+      "amortized_cost_k": 10459.0,
+      "fair_value_k": 10459.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC"
+      }
+    },
+    {
+      "company": "Luxury Asset Capital, LLC",
+      "industry": "Consumer Finance",
+      "maturity": "2027-07-01",
+      "acquisition_date": "7/2022",
+      "cash_rate_pct": 10.74,
+      "reference_rate": "SOFR",
+      "spread_bps": 675.0,
+      "par_amount_k": 30500.0,
+      "amortized_cost_k": 30277.0,
+      "fair_value_k": 30500.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.74,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC"
+      }
+    },
+    {
+      "company": "Lyneer Staffing Solutions, LLC",
+      "industry": "Professional Services",
+      "maturity": "2028-04-01",
+      "acquisition_date": "4/2025",
+      "cash_rate_pct": 7.75,
+      "spread_bps": 100.0,
+      "par_amount_k": 44000.0,
+      "amortized_cost_k": 44000.0,
+      "fair_value_k": 44000.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Lyneer%20Staffing%20Solutions%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Lyneer%20Staffing%20Solutions%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Lyneer%20Staffing%20Solutions%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Lyneer%20Staffing%20Solutions%2C%20LLC"
+      }
+    },
+    {
+      "company": "Maxor Acquisition, Inc.",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-03-01",
+      "acquisition_date": "3/2023",
+      "cash_rate_pct": 9.82,
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 19025.0,
+      "amortized_cost_k": 18690.0,
+      "fair_value_k": 19025.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.79,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc."
+      }
+    },
+    {
+      "company": "OIS Management Services, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2028-11-01",
+      "acquisition_date": "10/2025",
+      "cash_rate_pct": 8.42,
+      "reference_rate": "SOFR",
+      "spread_bps": 475.0,
+      "par_amount_k": 9462.0,
+      "amortized_cost_k": 9368.0,
+      "fair_value_k": 9462.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OIS%20Management%20Services%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OIS%20Management%20Services%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OIS%20Management%20Services%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OIS%20Management%20Services%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OIS%20Management%20Services%2C%20LLC"
+      }
+    },
+    {
+      "company": "One Touch Direct, LLC",
+      "maturity": "2027-03-01",
+      "acquisition_date": "12/2023",
+      "cash_rate_pct": 7.5,
+      "spread_bps": 75.0,
+      "par_amount_k": 5456.0,
+      "amortized_cost_k": 5456.0,
+      "fair_value_k": 5456.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC"
+      }
+    },
+    {
+      "company": "Pinnacle Fertility, Inc.",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2028-03-01",
+      "acquisition_date": "3/2025",
+      "cash_rate_pct": 9.27,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 979.0,
+      "amortized_cost_k": 949.0,
+      "fair_value_k": 979.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 3.16,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pinnacle%20Fertility%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pinnacle%20Fertility%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pinnacle%20Fertility%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pinnacle%20Fertility%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pinnacle%20Fertility%2C%20Inc."
+      }
+    },
+    {
+      "company": "Plastic Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2027-08-01",
+      "acquisition_date": "4/2022",
+      "cash_rate_pct": 8.67,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 24434.0,
+      "amortized_cost_k": 23984.0,
+      "fair_value_k": 24434.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.88,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "Quantcast Corporation",
+      "maturity": "2029-06-01",
+      "acquisition_date": "6/2024",
+      "cash_rate_pct": 9.04,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 8298.0,
+      "amortized_cost_k": 8215.0,
+      "fair_value_k": 8298.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.01,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation"
+      }
+    },
+    {
+      "company": "RQM+ Corp.",
+      "industry": "Life Sciences Tools & Services",
+      "maturity": "2029-08-01",
+      "acquisition_date": "8/2021",
+      "cash_rate_pct": 10.68,
+      "reference_rate": "SOFR",
+      "spread_bps": 675.0,
+      "par_amount_k": 24421.0,
+      "amortized_cost_k": 24157.0,
+      "fair_value_k": 21979.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -9.02,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp."
+      }
+    },
+    {
+      "company": "Sherwood Management Co., Inc.",
+      "industry": "Specialty Retail",
+      "maturity": "2030-03-01",
+      "acquisition_date": "3/2025",
+      "cash_rate_pct": 9.05,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 5663.0,
+      "amortized_cost_k": 5593.0,
+      "fair_value_k": 5663.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.25,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sherwood%20Management%20Co.%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sherwood%20Management%20Co.%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sherwood%20Management%20Co.%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sherwood%20Management%20Co.%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sherwood%20Management%20Co.%2C%20Inc."
+      }
+    },
+    {
+      "company": "Shoes for Crews Global, LLC",
+      "industry": "Diversified Consumer Services",
+      "maturity": "2029-06-01",
+      "acquisition_date": "6/2024",
+      "cash_rate_pct": 10.33,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 3426.0,
+      "amortized_cost_k": 3426.0,
+      "fair_value_k": 3426.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC"
+      }
+    },
+    {
+      "company": "Sightly Enterprises, Inc.",
+      "industry": "Media",
+      "maturity": "2026-12-01",
+      "acquisition_date": "1/2024",
+      "cash_rate_pct": 11.5,
+      "spread_bps": 475.0,
+      "par_amount_k": 1849.0,
+      "amortized_cost_k": 1849.0,
+      "fair_value_k": 1849.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc."
+      }
+    },
+    {
+      "company": "SLR Healthcare ABL",
+      "industry": "Financial Services",
+      "maturity": "2026-04-01",
+      "acquisition_date": "6/2025",
+      "cash_rate_pct": 10.46,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 1800.0,
+      "amortized_cost_k": 1800.0,
+      "fair_value_k": 1800.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL"
+      }
+    },
+    {
+      "company": "Southern Lifting and Hoisting, LLC",
+      "industry": "Transportation Infrastructure",
+      "maturity": "2027-01-01",
+      "acquisition_date": "1/2025",
+      "cash_rate_pct": 7.0,
+      "spread_bps": 25.0,
+      "par_amount_k": 19885.0,
+      "amortized_cost_k": 19885.0,
+      "fair_value_k": 19885.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Lifting%20and%20Hoisting%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Lifting%20and%20Hoisting%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Lifting%20and%20Hoisting%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Lifting%20and%20Hoisting%2C%20LLC"
+      }
+    },
+    {
+      "company": "Southern Orthodontic Partners Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-07-01",
+      "acquisition_date": "6/2022",
+      "cash_rate_pct": 8.92,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 32822.0,
+      "amortized_cost_k": 32659.0,
+      "fair_value_k": 32822.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.5,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "Southern Transport LLC",
+      "industry": "Transportation Infrastructure",
+      "maturity": "2027-01-01",
+      "acquisition_date": "1/2025",
+      "cash_rate_pct": 7.0,
+      "spread_bps": 25.0,
+      "par_amount_k": 11188.0,
+      "amortized_cost_k": 11188.0,
+      "fair_value_k": 11188.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Transport%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Transport%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Transport%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Transport%20LLC"
+      }
+    },
+    {
+      "company": "SPAR Marketing Force, Inc.",
+      "industry": "Media",
+      "maturity": "2027-10-01",
+      "acquisition_date": "12/2023",
+      "cash_rate_pct": 8.0,
+      "spread_bps": 125.0,
+      "par_amount_k": 10335.0,
+      "amortized_cost_k": 10335.0,
+      "fair_value_k": 10335.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc."
+      }
+    },
+    {
+      "company": "Stella & Chewy's, LLC",
+      "industry": "Consumer Staples Distribution & Retail",
+      "maturity": "2028-03-01",
+      "acquisition_date": "3/2025",
+      "cash_rate_pct": 9.04,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 13494.0,
+      "amortized_cost_k": 13327.0,
+      "fair_value_k": 13494.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.25,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Stella%20%26%20Chewy%27s%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Stella%20%26%20Chewy%27s%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Stella%20%26%20Chewy%27s%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Stella%20%26%20Chewy%27s%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Stella%20%26%20Chewy%27s%2C%20LLC"
+      }
+    },
+    {
+      "company": "Streamland Media Holdings LLC",
+      "industry": "Professional Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 400.0,
+      "par_amount_k": 7188.0,
+      "amortized_cost_k": 7122.0,
+      "fair_value_k": 7188.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 0.93,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Streamland%20Media%20Holdings%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Streamland%20Media%20Holdings%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Streamland%20Media%20Holdings%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Streamland%20Media%20Holdings%20LLC"
+      }
+    },
+    {
+      "company": "SunMed Group Holdings, LLC",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 14675.0,
+      "amortized_cost_k": 14497.0,
+      "fair_value_k": 14675.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.23,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "SunMed Receivables I, LLC",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 395.0,
+      "par_amount_k": 1906.0,
+      "amortized_cost_k": 1888.0,
+      "fair_value_k": 1906.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 0.95,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Receivables%20I%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Receivables%20I%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Receivables%20I%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Receivables%20I%2C%20LLC"
+      }
+    },
+    {
+      "company": "TAUC Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 6076.0,
+      "amortized_cost_k": 5995.0,
+      "fair_value_k": 5164.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": -13.86,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "The Children's Place, Inc.",
+      "industry": "Specialty Retail",
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 27291.0,
+      "amortized_cost_k": 26884.0,
+      "fair_value_k": 26881.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": -0.01,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Children%27s%20Place%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Children%27s%20Place%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Children%27s%20Place%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Children%27s%20Place%2C%20Inc."
+      }
+    },
+    {
+      "company": "The Townsend Company, LLC",
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 14038.0,
+      "amortized_cost_k": 13781.0,
+      "fair_value_k": 14038.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.86,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC"
+      }
+    },
+    {
+      "company": "Tilley Distribution, Inc.",
+      "industry": "Trading Companies & Distributors",
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 3801.0,
+      "amortized_cost_k": 3751.0,
+      "fair_value_k": 3725.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": -0.69,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc."
+      }
+    },
+    {
+      "company": "TPC 2022, LLC",
+      "industry": "Capital Markets",
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 20000.0,
+      "amortized_cost_k": 19862.0,
+      "fair_value_k": 20000.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 0.69,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC"
+      }
+    },
+    {
+      "company": "United Digestive MSO Parent, LLC",
+      "industry": "Health Care Providers & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 575.0,
+      "par_amount_k": 14426.0,
+      "amortized_cost_k": 14151.0,
+      "fair_value_k": 14426.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.94,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC"
+      }
+    },
+    {
+      "company": "Velocity One, LLC",
+      "industry": "Aerospace & Defense",
+      "reference_rate": "SOFR",
+      "spread_bps": 425.0,
+      "par_amount_k": 5250.0,
+      "amortized_cost_k": 5191.0,
+      "fair_value_k": 5250.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.14,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Velocity%20One%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Velocity%20One%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Velocity%20One%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Velocity%20One%2C%20LLC"
+      }
+    },
+    {
+      "company": "Western Veterinary Partners LLC",
+      "industry": "Diversified Consumer Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 36219.0,
+      "amortized_cost_k": 35851.0,
+      "fair_value_k": 36219.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.03,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC"
+      }
+    },
+    {
+      "company": "Wilbur-Ellis Holdings II, LLC",
+      "industry": "Fertilizer & Agricultural Chemicals",
+      "reference_rate": "SOFR",
+      "spread_bps": 400.0,
+      "par_amount_k": 10011.0,
+      "amortized_cost_k": 10011.0,
+      "fair_value_k": 10011.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Wilbur-Ellis%20Holdings%20II%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Wilbur-Ellis%20Holdings%20II%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Wilbur-Ellis%20Holdings%20II%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Wilbur-Ellis%20Holdings%20II%2C%20LLC"
+      }
+    },
+    {
+      "company": "Arcutis Biotherapeutics, Inc.",
+      "industry": "Pharmaceuticals",
+      "reference_rate": "SOFR",
+      "spread_bps": 595.0,
+      "par_amount_k": 33425.0,
+      "amortized_cost_k": 35073.0,
+      "fair_value_k": 36800.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 4.92,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc."
+      }
+    },
+    {
+      "company": "Ardelyx, Inc.",
+      "industry": "Pharmaceuticals",
+      "reference_rate": "SOFR",
+      "spread_bps": 400.0,
+      "par_amount_k": 46398.0,
+      "amortized_cost_k": 47177.0,
+      "fair_value_k": 47178.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc."
+      }
+    },
+    {
+      "company": "Centinel Spine, LLC",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 530.0,
+      "par_amount_k": 22460.0,
+      "amortized_cost_k": 22454.0,
+      "fair_value_k": 23035.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.59,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Centinel%20Spine%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Centinel%20Spine%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Centinel%20Spine%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Centinel%20Spine%2C%20LLC"
+      }
+    },
+    {
+      "company": "OmniGuide Holdings, Inc.",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 580.0,
+      "par_amount_k": 28665.0,
+      "amortized_cost_k": 31169.0,
+      "fair_value_k": 27232.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -12.63,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc."
+      }
+    },
+    {
+      "company": "SPR Therapeutics, Inc.",
+      "industry": "Health Care Technology",
+      "reference_rate": "SOFR",
+      "spread_bps": 515.0,
+      "par_amount_k": 10949.0,
+      "amortized_cost_k": 10984.0,
+      "fair_value_k": 11359.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 3.41,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc."
+      }
+    },
+    {
+      "company": "Treace Medical Concepts, Inc.",
+      "industry": "Life Sciences Tools & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 505.0,
+      "par_amount_k": 22460.0,
+      "amortized_cost_k": 22266.0,
+      "fair_value_k": 22258.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -0.04,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Treace%20Medical%20Concepts%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Treace%20Medical%20Concepts%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Treace%20Medical%20Concepts%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Treace%20Medical%20Concepts%2C%20Inc."
+      }
+    },
+    {
+      "company": "Vapotherm, Inc.",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 13782.0,
+      "amortized_cost_k": 14386.0,
+      "fair_value_k": 14368.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -0.13,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc."
+      }
+    },
+    {
+      "company": "AMF Levered II, LLC",
+      "industry": "Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 705.0,
+      "par_amount_k": 29925.0,
+      "amortized_cost_k": 29786.0,
+      "fair_value_k": 29925.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.47,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC"
+      }
+    },
+    {
+      "company": "FGI Worldwide LLC",
+      "industry": "Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 8206.0,
+      "amortized_cost_k": 8097.0,
+      "fair_value_k": 8206.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.35,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC"
+      }
+    },
+    {
+      "company": "nFusion Capital Finance, LLC",
+      "industry": "Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 725.0,
+      "par_amount_k": 35000.0,
+      "amortized_cost_k": 34617.0,
+      "fair_value_k": 35000.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.11,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=nFusion%20Capital%20Finance%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=nFusion%20Capital%20Finance%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=nFusion%20Capital%20Finance%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=nFusion%20Capital%20Finance%2C%20LLC"
+      }
+    },
+    {
+      "company": "WALCO Funding, LLC",
+      "industry": "Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 785.0,
+      "par_amount_k": 26199.0,
+      "amortized_cost_k": 25791.0,
+      "fair_value_k": 26199.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.58,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=WALCO%20Funding%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=WALCO%20Funding%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=WALCO%20Funding%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=WALCO%20Funding%2C%20LLC"
+      }
+    },
+    {
+      "company": "Equipment Operating Leases, LLC",
+      "par_amount_k": 72.0,
+      "fair_value_k": 104.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Equipment%20Operating%20Leases%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Equipment%20Operating%20Leases%2C%20LLC"
+      }
+    },
+    {
+      "company": "Kingsbridge Holdings, LLC",
+      "amortized_cost_k": 142500.0,
+      "fair_value_k": 11936.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -91.62,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "KBH Topco, LLC (Kingsbridge)",
+      "par_amount_k": 15415.0,
+      "amortized_cost_k": 172000.0,
+      "fair_value_k": 19022.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -88.94,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=KBH%20Topco%2C%20LLC%20%28Kingsbridge%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=KBH%20Topco%2C%20LLC%20%28Kingsbridge%29"
+      }
+    },
+    {
+      "company": "Loyer Capital LLC",
+      "par_amount_k": 139.0,
+      "fair_value_k": 405.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Loyer%20Capital%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Loyer%20Capital%20LLC"
+      }
+    },
+    {
+      "company": "RD Holdco, Inc. (Rug Doctor, class C)",
+      "par_amount_k": 3136.0,
+      "amortized_cost_k": 13408.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%20%28Rug%20Doctor%2C%20class%20C%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%20%28Rug%20Doctor%2C%20class%20C%29"
+      }
+    },
+    {
+      "company": "RD Holdco, Inc. (debt)",
+      "par_amount_k": 4470.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%20%28debt%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%20%28debt%29"
+      }
+    },
+    {
+      "company": "SLR Business Credit (revolver)",
+      "fair_value_k": 9.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit%20%28revolver%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit%20%28revolver%29"
+      }
+    },
+    {
+      "company": "SLR Business Credit",
+      "par_amount_k": 7630.0,
+      "amortized_cost_k": 133000.0,
+      "fair_value_k": 14875.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -88.82,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit"
+      }
+    },
+    {
+      "company": "SLR Credit Solutions",
+      "amortized_cost_k": 281000.0,
+      "fair_value_k": 20900.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -92.56,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Credit%20Solutions",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Credit%20Solutions"
+      }
+    },
+    {
+      "company": "SLR Equipment Finance (equity)",
+      "amortized_cost_k": 95000.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28equity%29"
+      }
+    },
+    {
+      "company": "SLR Equipment Finance (debt)",
+      "amortized_cost_k": 8500.0,
+      "fair_value_k": 357.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -95.8,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28debt%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28debt%29"
+      }
+    },
+    {
+      "company": "SLR Healthcare ABL",
+      "amortized_cost_k": 37500.0,
+      "fair_value_k": 7369.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -80.35,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL"
+      }
+    },
+    {
+      "company": "SLR Healthcare ABL (revolver)",
+      "amortized_cost_k": 1800.0,
+      "fair_value_k": 205.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -88.61,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL%20%28revolver%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL%20%28revolver%29"
+      }
+    },
+    {
+      "company": "SLR Senior Lending Program LLC",
+      "amortized_cost_k": 48256.0,
+      "fair_value_k": 5594.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -88.41,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Senior%20Lending%20Program%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Senior%20Lending%20Program%20LLC"
+      }
+    },
+    {
+      "company": "SOINT, LLC",
+      "amortized_cost_k": 959.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC"
+      }
+    },
+    {
+      "par_amount_k": 8861.0,
+      "amortized_cost_k": 933923.0,
+      "fair_value_k": 80776.0,
+      "company": "SOINT, LLC",
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -91.35,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC"
+      }
+    },
+    {
+      "company": "Bayside Opco, LLC",
+      "amortized_cost_k": 19725.0,
+      "fair_value_k": 2350.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -88.09,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC"
+      }
+    },
+    {
+      "company": "Bayside Parent, LLC (loan)",
+      "amortized_cost_k": 6933.0,
+      "fair_value_k": 925.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -86.66,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28loan%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28loan%29"
+      }
+    },
+    {
+      "company": "Bayside Parent, LLC (equity)",
+      "par_amount_k": 5318.0,
+      "amortized_cost_k": 12497.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28equity%29"
+      }
+    },
+    {
+      "company": "SLR-AMI Topco Blocker, LLC",
+      "amortized_cost_k": 12006.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR-AMI%20Topco%20Blocker%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR-AMI%20Topco%20Blocker%2C%20LLC"
+      }
+    },
+    {
+      "company": "Vapotherm, Inc.",
+      "amortized_cost_k": 14368.0,
+      "fair_value_k": 1741.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -87.88,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc."
+      }
+    },
+    {
+      "company": "Veronica Holdings, LLC (preferred equity)",
+      "amortized_cost_k": 31899.0,
+      "fair_value_k": 3187.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -90.01,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28preferred%20equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28preferred%20equity%29"
+      }
+    },
+    {
+      "company": "Veronica Holdings, LLC (common equity)",
+      "amortized_cost_k": 639.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29"
+      }
+    },
+    {
+      "par_amount_k": 2429.0,
+      "amortized_cost_k": 98067.0,
+      "fair_value_k": 8203.0,
+      "company": "Veronica Holdings, LLC (common equity)",
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -91.64,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29"
+      }
+    },
+    {
+      "company": "33Across Inc.",
+      "industry": "Media",
+      "maturity": "2025-10-31",
+      "acquisition_date": "1/22/2024",
+      "cash_rate_pct": 10.82,
+      "spread_bps": 232.0,
+      "par_amount_k": 2774.0,
+      "amortized_cost_k": 2774.0,
+      "fair_value_k": 2774.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=33Across%20Inc."
+      }
+    },
+    {
+      "company": "Aegis Toxicology Sciences Corporation",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2025-05-09",
+      "acquisition_date": "5/7/2018",
+      "cash_rate_pct": 10.28,
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 13122.0,
+      "amortized_cost_k": 13075.0,
+      "fair_value_k": 13122.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.36,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Aegis%20Toxicology%20Sciences%20Corporation",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Aegis%20Toxicology%20Sciences%20Corporation",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Aegis%20Toxicology%20Sciences%20Corporation",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Aegis%20Toxicology%20Sciences%20Corporation",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Aegis%20Toxicology%20Sciences%20Corporation"
+      }
+    },
+    {
+      "company": "Alkeme Intermediary Holdings, LLC",
+      "industry": "Insurance",
+      "maturity": "2026-10-28",
+      "acquisition_date": "9/20/2023",
+      "cash_rate_pct": 10.08,
+      "reference_rate": "SOFR",
+      "spread_bps": 575.0,
+      "par_amount_k": 16886.0,
+      "amortized_cost_k": 16531.0,
+      "fair_value_k": 16886.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.15,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Alkeme%20Intermediary%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "All States Ag Parts, LLC",
+      "industry": "Trading Companies & Distributors",
+      "maturity": "2026-09-01",
+      "acquisition_date": "4/1/2022",
+      "cash_rate_pct": 10.59,
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 2034.0,
+      "amortized_cost_k": 2016.0,
+      "fair_value_k": 2034.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.89,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=All%20States%20Ag%20Parts%2C%20LLC"
+      }
+    },
+    {
+      "company": "BayMark Health Services, Inc.",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2027-06-11",
+      "acquisition_date": "4/1/2022",
+      "cash_rate_pct": 9.59,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 8180.0,
+      "amortized_cost_k": 7999.0,
+      "fair_value_k": 8180.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.26,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BayMark%20Health%20Services%2C%20Inc."
+      }
+    },
+    {
+      "company": "Bayside Opco, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-05-31",
+      "acquisition_date": "5/31/2023",
+      "cash_rate_pct": 11.73,
+      "reference_rate": "SOFR",
+      "spread_bps": 725.0,
+      "par_amount_k": 19905.0,
+      "amortized_cost_k": 19905.0,
+      "fair_value_k": 19905.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC"
+      }
+    },
+    {
+      "company": "Bayside Parent, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-05-31",
+      "acquisition_date": "5/31/2023",
+      "cash_rate_pct": 14.48,
+      "reference_rate": "SOFR",
+      "spread_bps": 1000.0,
+      "par_amount_k": 6008.0,
+      "amortized_cost_k": 6008.0,
+      "fair_value_k": 6008.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC"
+      }
+    },
+    {
+      "company": "BDG Media, Inc.",
+      "industry": "Media",
+      "maturity": "2025-07-31",
+      "acquisition_date": "7/18/2022",
+      "cash_rate_pct": 12.75,
+      "spread_bps": 525.0,
+      "par_amount_k": 6249.0,
+      "amortized_cost_k": 6249.0,
+      "fair_value_k": 6249.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=BDG%20Media%2C%20Inc."
+      }
+    },
+    {
+      "company": "CC SAG Holdings Corp.(Spectrum Automotive)",
+      "industry": "Diversified Consumer Services",
+      "maturity": "2028-06-29",
+      "acquisition_date": "6/29/2021",
+      "cash_rate_pct": 9.58,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 30202.0,
+      "amortized_cost_k": 29814.0,
+      "fair_value_k": 30202.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.3,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CC%20SAG%20Holdings%20Corp.%28Spectrum%20Automotive%29"
+      }
+    },
+    {
+      "company": "Copper River Seafoods, Inc.",
+      "industry": "Food Products",
+      "maturity": "2025-04-23",
+      "acquisition_date": "12/1/2023",
+      "cash_rate_pct": 10.25,
+      "spread_bps": 275.0,
+      "par_amount_k": 5088.0,
+      "amortized_cost_k": 5088.0,
+      "fair_value_k": 5088.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Copper%20River%20Seafoods%2C%20Inc."
+      }
+    },
+    {
+      "company": "CVAUSA Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-05-22",
+      "acquisition_date": "5/22/2023",
+      "cash_rate_pct": 10.84,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 17191.0,
+      "amortized_cost_k": 16771.0,
+      "fair_value_k": 17191.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.5,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=CVAUSA%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "DeepIntent, Inc.",
+      "industry": "Media",
+      "maturity": "2027-09-30",
+      "acquisition_date": "12/1/2023",
+      "cash_rate_pct": 9.35,
+      "spread_bps": 185.0,
+      "par_amount_k": 37746.0,
+      "amortized_cost_k": 37746.0,
+      "fair_value_k": 37746.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=DeepIntent%2C%20Inc."
+      }
+    },
+    {
+      "company": "Enhanced Permanent Capital, LLC",
+      "industry": "Capital Markets",
+      "maturity": "2025-12-29",
+      "acquisition_date": "12/29/2020",
+      "cash_rate_pct": 11.97,
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 44578.0,
+      "amortized_cost_k": 44220.0,
+      "fair_value_k": 44578.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.81,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Enhanced%20Permanent%20Capital%2C%20LLC"
+      }
+    },
+    {
+      "company": "EyeSouth Eye Care Holdco LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-10-05",
+      "acquisition_date": "10/6/2022",
+      "cash_rate_pct": 9.96,
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 9625.0,
+      "amortized_cost_k": 9383.0,
+      "fair_value_k": 9625.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.58,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=EyeSouth%20Eye%20Care%20Holdco%20LLC"
+      }
+    },
+    {
+      "company": "FE Advance, LLC",
+      "industry": "Diversified Financial Services",
+      "maturity": "2027-07-30",
+      "acquisition_date": "7/30/2024",
+      "cash_rate_pct": 10.86,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 20894.0,
+      "amortized_cost_k": 20517.0,
+      "fair_value_k": 20894.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.84,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FE%20Advance%2C%20LLC"
+      }
+    },
+    {
+      "company": "Fertility (ITC) Investment Holdco, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-01-03",
+      "acquisition_date": "1/4/2023",
+      "cash_rate_pct": 11.74,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 22368.0,
+      "amortized_cost_k": 21871.0,
+      "fair_value_k": 22368.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.27,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Fertility%20%28ITC%29%20Investment%20Holdco%2C%20LLC"
+      }
+    },
+    {
+      "company": "Foundation Consumer Brands, LLC",
+      "industry": "Personal Products",
+      "maturity": "2027-02-12",
+      "acquisition_date": "2/12/2021",
+      "cash_rate_pct": 10.89,
+      "reference_rate": "SOFR",
+      "spread_bps": 625.0,
+      "par_amount_k": 25058.0,
+      "amortized_cost_k": 24691.0,
+      "fair_value_k": 25058.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.49,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Foundation%20Consumer%20Brands%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Foundation%20Consumer%20Brands%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Foundation%20Consumer%20Brands%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Foundation%20Consumer%20Brands%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Foundation%20Consumer%20Brands%2C%20LLC"
+      }
+    },
+    {
+      "company": "Human Interest Inc.",
+      "industry": "Internet Software & Services",
+      "maturity": "2027-07-01",
+      "acquisition_date": "6/30/2022",
+      "cash_rate_pct": 11.9,
+      "reference_rate": "SOFR",
+      "spread_bps": 735.0,
+      "par_amount_k": 20104.0,
+      "amortized_cost_k": 20104.0,
+      "fair_value_k": 20104.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Human%20Interest%20Inc."
+      }
+    },
+    {
+      "company": "iCIMS, Inc.",
+      "industry": "Software",
+      "maturity": "2028-08-18",
+      "acquisition_date": "8/18/2022",
+      "cash_rate_pct": 10.38,
+      "reference_rate": "SOFR",
+      "spread_bps": 575.0,
+      "par_amount_k": 32245.0,
+      "amortized_cost_k": 31887.0,
+      "fair_value_k": 32245.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.12,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=iCIMS%2C%20Inc."
+      }
+    },
+    {
+      "company": "Kaseya, Inc.",
+      "industry": "Software",
+      "maturity": "2029-06-23",
+      "acquisition_date": "6/22/2022",
+      "cash_rate_pct": 9.83,
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 24702.0,
+      "amortized_cost_k": 24445.0,
+      "fair_value_k": 24702.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.05,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kaseya%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kaseya%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kaseya%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kaseya%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kaseya%2C%20Inc."
+      }
+    },
+    {
+      "company": "Kingsbridge Holdings, LLC",
+      "industry": "Multi-Sector Holdings",
+      "maturity": "2027-12-21",
+      "acquisition_date": "12/21/2018",
+      "cash_rate_pct": 11.71,
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 100500.0,
+      "amortized_cost_k": 100283.0,
+      "fair_value_k": 100500.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.22,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "Logix Holding Company, LLC",
+      "industry": "Communications Equipment",
+      "maturity": "2025-03-20",
+      "acquisition_date": "9/14/2018",
+      "cash_rate_pct": 12.25,
+      "spread_bps": 475.0,
+      "par_amount_k": 14009.0,
+      "amortized_cost_k": 13933.0,
+      "fair_value_k": 13449.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -3.47,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Logix%20Holding%20Company%2C%20LLC"
+      }
+    },
+    {
+      "company": "Luxury Asset Capital, LLC",
+      "industry": "Thrifts & Mortgage Finance",
+      "maturity": "2027-07-15",
+      "acquisition_date": "7/15/2022",
+      "cash_rate_pct": 11.42,
+      "reference_rate": "SOFR",
+      "spread_bps": 675.0,
+      "par_amount_k": 30500.0,
+      "amortized_cost_k": 30149.0,
+      "fair_value_k": 30500.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.16,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Luxury%20Asset%20Capital%2C%20LLC"
+      }
+    },
+    {
+      "company": "Maxor Acquisition, Inc.",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2029-03-01",
+      "acquisition_date": "3/1/2023",
+      "cash_rate_pct": 10.44,
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 21195.0,
+      "amortized_cost_k": 20755.0,
+      "fair_value_k": 21195.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.12,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Maxor%20Acquisition%2C%20Inc."
+      }
+    },
+    {
+      "company": "One Touch Direct, LLC",
+      "maturity": "2026-03-31",
+      "acquisition_date": "12/1/2023",
+      "cash_rate_pct": 8.25,
+      "spread_bps": 75.0,
+      "par_amount_k": 1030.0,
+      "amortized_cost_k": 1030.0,
+      "fair_value_k": 1030.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=One%20Touch%20Direct%2C%20LLC"
+      }
+    },
+    {
+      "company": "ONS MSO, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-07-08",
+      "acquisition_date": "2/10/2023",
+      "cash_rate_pct": 10.84,
+      "reference_rate": "SOFR",
+      "spread_bps": 625.0,
+      "par_amount_k": 27772.0,
+      "amortized_cost_k": 27317.0,
+      "fair_value_k": 27772.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.67,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=ONS%20MSO%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=ONS%20MSO%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=ONS%20MSO%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=ONS%20MSO%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=ONS%20MSO%2C%20LLC"
+      }
+    },
+    {
+      "company": "Peter C. Foy & Associates Insurance Services, LLC",
+      "industry": "Insurance",
+      "maturity": "2028-11-01",
+      "acquisition_date": "4/1/2022",
+      "cash_rate_pct": 9.83,
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 16706.0,
+      "amortized_cost_k": 16508.0,
+      "fair_value_k": 16706.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.2,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Peter%20C.%20Foy%20%26%20Associates%20Insurance%20Services%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Peter%20C.%20Foy%20%26%20Associates%20Insurance%20Services%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Peter%20C.%20Foy%20%26%20Associates%20Insurance%20Services%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Peter%20C.%20Foy%20%26%20Associates%20Insurance%20Services%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Peter%20C.%20Foy%20%26%20Associates%20Insurance%20Services%2C%20LLC"
+      }
+    },
+    {
+      "company": "Plastic Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2027-08-18",
+      "acquisition_date": "4/1/2022",
+      "cash_rate_pct": 9.43,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 16965.0,
+      "amortized_cost_k": 16471.0,
+      "fair_value_k": 16965.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 3.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Plastic%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "Quantcast Corporation",
+      "maturity": "2029-06-14",
+      "acquisition_date": "6/14/2024",
+      "cash_rate_pct": 11.75,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 10502.0,
+      "amortized_cost_k": 10380.0,
+      "fair_value_k": 10502.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.18,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Quantcast%20Corporation"
+      }
+    },
+    {
+      "company": "Retina Midco, Inc.",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-01-31",
+      "acquisition_date": "12/18/2023",
+      "cash_rate_pct": 10.35,
+      "reference_rate": "SOFR",
+      "spread_bps": 575.0,
+      "par_amount_k": 27301.0,
+      "amortized_cost_k": 26985.0,
+      "fair_value_k": 27847.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 3.19,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Retina%20Midco%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Retina%20Midco%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Retina%20Midco%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Retina%20Midco%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Retina%20Midco%2C%20Inc."
+      }
+    },
+    {
+      "company": "RQM+ Corp.",
+      "industry": "Life Sciences Tools & Services",
+      "maturity": "2029-08-12",
+      "acquisition_date": "8/20/2021",
+      "cash_rate_pct": 11.34,
+      "reference_rate": "SOFR",
+      "spread_bps": 675.0,
+      "par_amount_k": 23398.0,
+      "amortized_cost_k": 23201.0,
+      "fair_value_k": 22462.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -3.19,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RQM%2B%20Corp."
+      }
+    },
+    {
+      "company": "RxSense Holdings LLC",
+      "industry": "Diversified Consumer Services",
+      "maturity": "2026-03-13",
+      "acquisition_date": "4/1/2022",
+      "cash_rate_pct": 9.69,
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 2628.0,
+      "amortized_cost_k": 2582.0,
+      "fair_value_k": 2628.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.78,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RxSense%20Holdings%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RxSense%20Holdings%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RxSense%20Holdings%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RxSense%20Holdings%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RxSense%20Holdings%20LLC"
+      }
+    },
+    {
+      "company": "Shoes for Crews Global, LLC",
+      "industry": "Diversified Consumer Services",
+      "maturity": "2029-06-30",
+      "acquisition_date": "6/30/2024",
+      "cash_rate_pct": 11.17,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 3398.0,
+      "amortized_cost_k": 3398.0,
+      "fair_value_k": 3398.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Shoes%20for%20Crews%20Global%2C%20LLC"
+      }
+    },
+    {
+      "company": "Sightly Enterprises, Inc.",
+      "industry": "Media",
+      "maturity": "2026-12-31",
+      "acquisition_date": "1/22/2024",
+      "cash_rate_pct": 12.25,
+      "spread_bps": 475.0,
+      "par_amount_k": 4813.0,
+      "amortized_cost_k": 4813.0,
+      "fair_value_k": 4813.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Sightly%20Enterprises%2C%20Inc."
+      }
+    },
+    {
+      "company": "SLR Healthcare ABL",
+      "industry": "Diversified Financial Services",
+      "maturity": "2025-12-31",
+      "acquisition_date": "12/31/2024",
+      "cash_rate_pct": 10.81,
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 4000.0,
+      "amortized_cost_k": 4000.0,
+      "fair_value_k": 4000.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL"
+      }
+    },
+    {
+      "company": "Southern Orthodontic Partners Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "maturity": "2026-07-27",
+      "acquisition_date": "6/3/2022",
+      "cash_rate_pct": 9.58,
+      "reference_rate": "SOFR",
+      "spread_bps": 525.0,
+      "par_amount_k": 33158.0,
+      "amortized_cost_k": 32731.0,
+      "fair_value_k": 33158.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.3,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Southern%20Orthodontic%20Partners%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "SPAR Marketing Force, Inc.",
+      "industry": "Media",
+      "maturity": "2025-10-10",
+      "acquisition_date": "12/1/2023",
+      "cash_rate_pct": 9.4,
+      "spread_bps": 190.0,
+      "par_amount_k": 9251.0,
+      "amortized_cost_k": 9251.0,
+      "fair_value_k": 9251.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc.",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPAR%20Marketing%20Force%2C%20Inc."
+      }
+    },
+    {
+      "company": "SunMed Group Holdings, LLC",
+      "industry": "Health Care Equipment & Supplies",
+      "maturity": "2028-06-16",
+      "acquisition_date": "6/16/2021",
+      "cash_rate_pct": 10.19,
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 14828.0,
+      "amortized_cost_k": 14584.0,
+      "fair_value_k": 14828.0,
+      "investment_type": "First Lien Bank Debt/Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.67,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "maturity": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SunMed%20Group%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "TAUC Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 700.0,
+      "par_amount_k": 7002.0,
+      "amortized_cost_k": 6829.0,
+      "fair_value_k": 6302.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": -7.72,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TAUC%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "The Townsend Company, LLC",
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 19775.0,
+      "amortized_cost_k": 19275.0,
+      "fair_value_k": 19587.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.62,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=The%20Townsend%20Company%2C%20LLC"
+      }
+    },
+    {
+      "company": "Tilley Distribution, Inc.",
+      "industry": "Trading Companies & Distributors",
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 3688.0,
+      "amortized_cost_k": 3590.0,
+      "fair_value_k": 3615.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 0.7,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Tilley%20Distribution%2C%20Inc."
+      }
+    },
+    {
+      "company": "TPC 2022, LLC",
+      "industry": "Capital Markets",
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 20000.0,
+      "amortized_cost_k": 19802.0,
+      "fair_value_k": 19800.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": -0.01,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=TPC%202022%2C%20LLC"
+      }
+    },
+    {
+      "company": "United Digestive MSO Parent, LLC",
+      "industry": "Health Care Providers & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 575.0,
+      "par_amount_k": 9956.0,
+      "amortized_cost_k": 9723.0,
+      "fair_value_k": 9956.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 2.4,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=United%20Digestive%20MSO%20Parent%2C%20LLC"
+      }
+    },
+    {
+      "company": "Urology Management Holdings, Inc.",
+      "industry": "Health Care Providers & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 11909.0,
+      "amortized_cost_k": 11683.0,
+      "fair_value_k": 11909.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.93,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Urology%20Management%20Holdings%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Urology%20Management%20Holdings%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Urology%20Management%20Holdings%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Urology%20Management%20Holdings%2C%20Inc."
+      }
+    },
+    {
+      "company": "UVP Management, LLC",
+      "industry": "Health Care Providers & Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 625.0,
+      "par_amount_k": 13653.0,
+      "amortized_cost_k": 13518.0,
+      "fair_value_k": 13653.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=UVP%20Management%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=UVP%20Management%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=UVP%20Management%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=UVP%20Management%2C%20LLC"
+      }
+    },
+    {
+      "company": "Western Veterinary Partners LLC",
+      "industry": "Diversified Consumer Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 500.0,
+      "par_amount_k": 23515.0,
+      "amortized_cost_k": 23215.0,
+      "fair_value_k": 23515.0,
+      "investment_type": "Senior Secured Loans (continued)",
+      "type_simple": "Senior Secured Loans (continued)",
+      "investment_category": "Debt",
+      "mtm_pct": 1.29,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Western%20Veterinary%20Partners%20LLC"
+      }
+    },
+    {
+      "company": "Arcutis Biotherapeutics, Inc.",
+      "industry": "Pharmaceuticals",
+      "reference_rate": "SOFR",
+      "spread_bps": 595.0,
+      "par_amount_k": 33425.0,
+      "amortized_cost_k": 34531.0,
+      "fair_value_k": 35263.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.12,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Arcutis%20Biotherapeutics%2C%20Inc."
+      }
+    },
+    {
+      "company": "Ardelyx, Inc.",
+      "industry": "Pharmaceuticals",
+      "reference_rate": "SOFR",
+      "spread_bps": 400.0,
+      "par_amount_k": 39750.0,
+      "amortized_cost_k": 40033.0,
+      "fair_value_k": 40247.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.53,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Ardelyx%2C%20Inc."
+      }
+    },
+    {
+      "company": "Cerapedics, Inc.",
+      "industry": "Biotechnology",
+      "reference_rate": "SOFR",
+      "spread_bps": 620.0,
+      "par_amount_k": 36156.0,
+      "amortized_cost_k": 36498.0,
+      "fair_value_k": 37889.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 3.81,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Cerapedics%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Cerapedics%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Cerapedics%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Cerapedics%2C%20Inc."
+      }
+    },
+    {
+      "company": "Meditrina, Inc.",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 550.0,
+      "par_amount_k": 5051.0,
+      "amortized_cost_k": 5111.0,
+      "fair_value_k": 5127.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.31,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Meditrina%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Meditrina%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Meditrina%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Meditrina%2C%20Inc."
+      }
+    },
+    {
+      "company": "OmniGuide Holdings, Inc.",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 580.0,
+      "par_amount_k": 24500.0,
+      "amortized_cost_k": 26044.0,
+      "fair_value_k": 24622.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": -5.46,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=OmniGuide%20Holdings%2C%20Inc."
+      }
+    },
+    {
+      "company": "Outset Medical, Inc.",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 515.0,
+      "par_amount_k": 44727.0,
+      "amortized_cost_k": 45353.0,
+      "fair_value_k": 46405.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 2.32,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Outset%20Medical%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Outset%20Medical%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Outset%20Medical%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Outset%20Medical%2C%20Inc."
+      }
+    },
+    {
+      "company": "SPR Therapeutics, Inc.",
+      "industry": "Health Care Technology",
+      "reference_rate": "SOFR",
+      "spread_bps": 515.0,
+      "par_amount_k": 4866.0,
+      "amortized_cost_k": 4872.0,
+      "fair_value_k": 5021.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 3.06,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SPR%20Therapeutics%2C%20Inc."
+      }
+    },
+    {
+      "company": "Vapotherm, Inc.",
+      "industry": "Health Care Equipment & Supplies",
+      "reference_rate": "SOFR",
+      "spread_bps": 600.0,
+      "par_amount_k": 13782.0,
+      "amortized_cost_k": 14147.0,
+      "fair_value_k": 14254.0,
+      "investment_type": "First Lien Life Science Senior Secured Loans",
+      "type_simple": "1L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.76,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc."
+      }
+    },
+    {
+      "company": "AMF Levered II, LLC",
+      "industry": "Diversified Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 705.0,
+      "par_amount_k": 29925.0,
+      "amortized_cost_k": 29741.0,
+      "fair_value_k": 29925.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": 0.62,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=AMF%20Levered%20II%2C%20LLC"
+      }
+    },
+    {
+      "company": "FGI Worldwide LLC",
+      "industry": "Diversified Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 650.0,
+      "par_amount_k": 8206.0,
+      "amortized_cost_k": 8058.0,
+      "fair_value_k": 8206.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": 1.84,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=FGI%20Worldwide%20LLC"
+      }
+    },
+    {
+      "company": "Pasadena Private Lending Inc.",
+      "industry": "Diversified Financial Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 750.0,
+      "par_amount_k": 9825.0,
+      "amortized_cost_k": 9703.0,
+      "fair_value_k": 9702.0,
+      "investment_type": "Second Lien Asset-Based Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -0.01,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pasadena%20Private%20Lending%20Inc.",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pasadena%20Private%20Lending%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pasadena%20Private%20Lending%20Inc.",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Pasadena%20Private%20Lending%20Inc."
+      }
+    },
+    {
+      "company": "RD Holdco, Inc.**",
+      "industry": "Diversified Consumer Services",
+      "reference_rate": "SOFR",
+      "spread_bps": 975.0,
+      "par_amount_k": 18228.0,
+      "amortized_cost_k": 12297.0,
+      "fair_value_k": 7827.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -36.35,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%2A%2A",
+        "industry": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%2A%2A",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%2A%2A",
+        "reference_rate": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%2A%2A"
+      }
+    },
+    {
+      "company": "Equipment Operating Leases, LLC",
+      "par_amount_k": 12.0,
+      "amortized_cost_k": 2812.0,
+      "fair_value_k": 264.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -90.61,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Equipment%20Operating%20Leases%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Equipment%20Operating%20Leases%2C%20LLC"
+      }
+    },
+    {
+      "company": "Kingsbridge Holdings, LLC",
+      "par_amount_k": 113.0,
+      "amortized_cost_k": 100500.0,
+      "fair_value_k": 11972.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -88.09,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Kingsbridge%20Holdings%2C%20LLC"
+      }
+    },
+    {
+      "company": "KBH Topco, LLC (Kingsbridge)",
+      "par_amount_k": 5748.0,
+      "amortized_cost_k": 152071.0,
+      "fair_value_k": 12159.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -92.0,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=KBH%20Topco%2C%20LLC%20%28Kingsbridge%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=KBH%20Topco%2C%20LLC%20%28Kingsbridge%29"
+      }
+    },
+    {
+      "company": "Loyer Capital LLC",
+      "amortized_cost_k": 7361.0,
+      "fair_value_k": 757.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -89.72,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Loyer%20Capital%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Loyer%20Capital%20LLC"
+      }
+    },
+    {
+      "company": "RD Holdco, Inc. (debt)",
+      "amortized_cost_k": 7827.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%20%28debt%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=RD%20Holdco%2C%20Inc.%20%28debt%29"
+      }
+    },
+    {
+      "company": "SLR Business Credit (revolver)",
+      "fair_value_k": 33.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit%20%28revolver%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit%20%28revolver%29"
+      }
+    },
+    {
+      "company": "SLR Business Credit",
+      "par_amount_k": 5000.0,
+      "amortized_cost_k": 125370.0,
+      "fair_value_k": 8350.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -93.34,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Business%20Credit"
+      }
+    },
+    {
+      "company": "SLR Credit Solutions",
+      "par_amount_k": 4250.0,
+      "amortized_cost_k": 288250.0,
+      "fair_value_k": 20500.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -92.89,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Credit%20Solutions",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Credit%20Solutions"
+      }
+    },
+    {
+      "company": "SLR Equipment Finance (equity)",
+      "amortized_cost_k": 107600.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28equity%29"
+      }
+    },
+    {
+      "company": "SLR Equipment Finance (debt)",
+      "amortized_cost_k": 3000.0,
+      "fair_value_k": 28.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -99.07,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28debt%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Equipment%20Finance%20%28debt%29"
+      }
+    },
+    {
+      "company": "SLR Healthcare ABL",
+      "par_amount_k": 2000.0,
+      "amortized_cost_k": 37850.0,
+      "fair_value_k": 5123.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -86.46,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL"
+      }
+    },
+    {
+      "company": "SLR Healthcare ABL (revolver)",
+      "amortized_cost_k": 4000.0,
+      "fair_value_k": 1.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -99.98,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL%20%28revolver%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Healthcare%20ABL%20%28revolver%29"
+      }
+    },
+    {
+      "company": "SLR Senior Lending Program LLC",
+      "par_amount_k": 192.0,
+      "amortized_cost_k": 49091.0,
+      "fair_value_k": 7262.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -85.21,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Senior%20Lending%20Program%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR%20Senior%20Lending%20Program%20LLC"
+      }
+    },
+    {
+      "company": "SOINT, LLC",
+      "amortized_cost_k": 2500.0,
+      "fair_value_k": 62.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -97.52,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC"
+      }
+    },
+    {
+      "par_amount_k": 2731.0,
+      "amortized_cost_k": 888232.0,
+      "fair_value_k": 66511.0,
+      "company": "SOINT, LLC",
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -92.51,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SOINT%2C%20LLC"
+      }
+    },
+    {
+      "company": "Bayside Opco, LLC",
+      "amortized_cost_k": 19905.0,
+      "fair_value_k": 2543.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -87.22,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Opco%2C%20LLC"
+      }
+    },
+    {
+      "company": "Bayside Parent, LLC (loan)",
+      "amortized_cost_k": 6008.0,
+      "fair_value_k": 850.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -85.85,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28loan%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28loan%29"
+      }
+    },
+    {
+      "company": "Bayside Parent, LLC (equity)",
+      "par_amount_k": 3364.0,
+      "amortized_cost_k": 7179.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Bayside%20Parent%2C%20LLC%20%28equity%29"
+      }
+    },
+    {
+      "company": "SLR-AMI Topco Blocker, LLC",
+      "amortized_cost_k": 12778.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR-AMI%20Topco%20Blocker%2C%20LLC",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=SLR-AMI%20Topco%20Blocker%2C%20LLC"
+      }
+    },
+    {
+      "company": "Vapotherm, Inc.",
+      "par_amount_k": 108.0,
+      "amortized_cost_k": 14254.0,
+      "fair_value_k": 488.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -96.58,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc.",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Vapotherm%2C%20Inc."
+      }
+    },
+    {
+      "company": "Veronica Holdings, LLC (preferred equity)",
+      "par_amount_k": 1413.0,
+      "amortized_cost_k": 29182.0,
+      "fair_value_k": 845.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -97.1,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28preferred%20equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28preferred%20equity%29"
+      }
+    },
+    {
+      "company": "Veronica Holdings, LLC (common equity)",
+      "par_amount_k": 309.0,
+      "amortized_cost_k": 639.0,
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29"
+      }
+    },
+    {
+      "par_amount_k": 2105.0,
+      "amortized_cost_k": 89945.0,
+      "fair_value_k": 4726.0,
+      "company": "Veronica Holdings, LLC (common equity)",
+      "investment_type": "Second Lien Bank Debt / Senior Secured Loans",
+      "type_simple": "2L",
+      "investment_category": "Debt",
+      "mtm_pct": -94.75,
+      "sources": {
+        "company": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29",
+        "investment_type": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm#:~:text=Veronica%20Holdings%2C%20LLC%20%28common%20equity%29"
+      }
+    }
+  ],
+  "cik": "1418076",
+  "accession": "0001193125-26-066979",
+  "primary_doc": "ck0001418076-20251231.htm",
+  "ixbrl_base": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm",
+  "raw_filing_url": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm",
+  "total_par_k": 2419297.0,
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526066979/ck0001418076-20251231.htm",
+  "data_quality": {
+    "spread_coverage_pct": 72.2,
+    "spread_fv_coverage_pct": 87.9,
+    "spread_reliable": true,
+    "cost_reliable": true,
+    "cost_fv_divergence_pct": 19.0,
+    "fv_unit_suspect": false,
+    "xbrl_quality": null,
+    "xbrl_match_rate": null,
+    "issues": [
+      "17 near-total write-offs (FV<10% cost) excluded from cost/FV calc",
+      "4 positions missing amortized cost data"
+    ]
+  }
+}

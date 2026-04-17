@@ -1,0 +1,125 @@
+{
+  "ticker": "TCAP",
+  "as_of": "2025-12-31",
+  "source": "TCAP 10-K, accession 0001913724-26-000007",
+  "generated": "2026-04-15T15:59:20Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "ASPV Credit Facility | Line of Credit",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 272600.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 272600.0,
+      "rate": "Fixed 1.9%",
+      "maturity": null
+    },
+    {
+      "facility": "MSPV Credit Facility | Line of Credit",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 386400.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 386400.0,
+      "rate": "Fixed 2.2%",
+      "maturity": null
+    },
+    {
+      "facility": "Truist Credit Facility | Line of Credit",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 256500.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 256500.0,
+      "rate": "Fixed 1.875%",
+      "maturity": null
+    },
+    {
+      "facility": "Series A Tranche A Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 90000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 90406.0,
+      "rate": "Fixed 7.69%",
+      "maturity": null
+    },
+    {
+      "facility": "Series A Tranche B Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 150000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 151856.0,
+      "rate": "Fixed 7.78%",
+      "maturity": null
+    },
+    {
+      "facility": "Series B Tranche A Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 85000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 86045.0,
+      "rate": "Fixed 6.42%",
+      "maturity": null
+    },
+    {
+      "facility": "Series B Tranche B Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 25000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 25000.0,
+      "rate": "Fixed 3.24%",
+      "maturity": null
+    },
+    {
+      "facility": "Series B Tranche C Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 290000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 293911.0,
+      "rate": "Fixed 6.52%",
+      "maturity": null
+    },
+    {
+      "facility": "Series C Tranche A Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 25000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 25178.0,
+      "rate": "Fixed 6.05%",
+      "maturity": null
+    },
+    {
+      "facility": "Series C Tranche B Notes | Senior Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 75092.0,
+      "rate": "Fixed 6.4%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO Transaction | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 369000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 369000.0,
+      "rate": "Fixed 6.54%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 2024500.0,
+    "total_commitment_k": null,
+    "total_available_k": null
+  }
+}

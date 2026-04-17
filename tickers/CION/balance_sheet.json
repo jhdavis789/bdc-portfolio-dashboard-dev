@@ -1,0 +1,35 @@
+{
+  "ticker": "CION",
+  "as_of": "2025-12-31",
+  "source": "CION 10-K, accession 0001534254-26-000003",
+  "generated": "2026-03-31T19:57:16Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2026 Notes | Unsecured debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 125000.0,
+      "aggregate_principal_k": 125000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.5%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "Senior Notes A",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 80712.0,
+      "aggregate_principal_k": 80712.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.97%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 205712.0,
+    "total_commitment_k": 205712.0,
+    "total_available_k": null
+  }
+}

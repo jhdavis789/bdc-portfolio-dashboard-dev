@@ -1,0 +1,475 @@
+{
+  "ticker": "OTF",
+  "as_of": "2025-12-31",
+  "source": "OTF 10-K, accession 0001747777-26-000012",
+  "generated": "2026-03-31T19:58:51Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "SPV Asset Facility I | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 700000.0,
+      "aggregate_principal_k": 700000.0,
+      "available_k": null,
+      "net_carrying_value_k": 691602.0,
+      "rate": "SOFR + 2.25%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility II | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 325000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": 320464.0,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility III | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 624500.0,
+      "aggregate_principal_k": 1100000.0,
+      "available_k": null,
+      "net_carrying_value_k": 613087.0,
+      "rate": "SOFR + 2.05%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility IV | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 200000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 194346.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 375000.0,
+      "aggregate_principal_k": 375000.0,
+      "available_k": null,
+      "net_carrying_value_k": 371068.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO IV | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 240000.0,
+      "aggregate_principal_k": 240000.0,
+      "available_k": null,
+      "net_carrying_value_k": 237654.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO V | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 298072.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "June 2025 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 210000.0,
+      "aggregate_principal_k": 210000.0,
+      "available_k": null,
+      "net_carrying_value_k": 209377.0,
+      "rate": "Fixed 6.75%",
+      "maturity": "June 2025"
+    },
+    {
+      "facility": "December 2025 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": 651495.0,
+      "rate": "Fixed 4.75%",
+      "maturity": "December 2025"
+    },
+    {
+      "facility": "June 2026 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 375000.0,
+      "aggregate_principal_k": 375000.0,
+      "available_k": null,
+      "net_carrying_value_k": 374287.0,
+      "rate": "Fixed 3.75%",
+      "maturity": "June 2026"
+    },
+    {
+      "facility": "January 2027 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 298379.0,
+      "rate": "Fixed 2.5%",
+      "maturity": "January 2027"
+    },
+    {
+      "facility": "March 2028 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": 654890.0,
+      "rate": "Fixed 6.1%",
+      "maturity": "March 2028"
+    },
+    {
+      "facility": "September 2028 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": 75000.0,
+      "available_k": null,
+      "net_carrying_value_k": 74505.0,
+      "rate": null,
+      "maturity": "September 2028"
+    },
+    {
+      "facility": "April 2029 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 700000.0,
+      "aggregate_principal_k": 700000.0,
+      "available_k": null,
+      "net_carrying_value_k": 703564.0,
+      "rate": "Fixed 6.75%",
+      "maturity": "April 2029"
+    },
+    {
+      "facility": "CLO 2020-1 | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 204000.0,
+      "aggregate_principal_k": 204000.0,
+      "available_k": null,
+      "net_carrying_value_k": 199985.0,
+      "rate": "SOFR + 2.95%",
+      "maturity": null
+    },
+    {
+      "facility": "Total unfunded revolving loan commitments | Revolving Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 1480000.0,
+      "aggregate_principal_k": 2675000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1456282.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO 2020-1",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 243400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | Athena Funding I LLC",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 182400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | Athena CLO IV",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 217963.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | Athena CLO II",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 83945.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | Athena CLO V",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 447700.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 A | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 200000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 Refinancing | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 337500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 Refinancing | Middle Market Loans | Athena Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 83930.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 Refinancing AAA(sf) Class A-1R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 112500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.05%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 Refinancing AAA(sf) Class A-2R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 23500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 6.937%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 Refinancing A(sf) Class B-1R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 53000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.64%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO 2020-1 Refinancing A(sf) Class B-2R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 15000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 8.497%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II Class A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 40000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.85%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II AA(sf) Class B-1 Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 16500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.95%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II AA(sf) Class B-2 Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 7500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.25%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II AA(sf) Class C Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 24000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 4.95%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II Class A-L Loans | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 250000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.85%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II Refinancing | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 615100.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II AAA(sf) Class A-R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 75000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.7%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II AA(sf) Class B-R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 31250.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO II A(sf) Class C-R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 18750.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.4%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO IV Class A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 208000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO IV Class B-1 Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 7000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.5%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO IV Class B-2 Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 13000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.254%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO IV Class C Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 12000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.64%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO V Class A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 260000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.73%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO V Class B-1 Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 25000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.25%",
+      "maturity": null
+    },
+    {
+      "facility": "Athena CLO V Class C Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 15000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.7%",
+      "maturity": null
+    },
+    {
+      "facility": "Secured Debt | Revolving Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Bridge Loan | Revolving Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 7408500.0,
+    "total_commitment_k": 13572938.0,
+    "total_available_k": null
+  }
+}

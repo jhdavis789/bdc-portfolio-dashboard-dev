@@ -1,0 +1,55 @@
+{
+  "ticker": "OCSL",
+  "as_of": "2025-09-30",
+  "source": "OCSL 10-K, accession 0001414932-25-000022",
+  "generated": "2026-03-31T19:59:22Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 336600.0,
+      "rate": "Fixed 6.353%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 300500.0,
+      "rate": "Fixed 7.585%",
+      "maturity": "2029"
+    },
+    {
+      "facility": "2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 304800.0,
+      "rate": "Fixed 6.491%",
+      "maturity": "2030"
+    },
+    {
+      "facility": "2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 299500.0,
+      "rate": "Fixed 3.5%",
+      "maturity": "2025"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": null,
+    "total_commitment_k": null,
+    "total_available_k": null
+  }
+}

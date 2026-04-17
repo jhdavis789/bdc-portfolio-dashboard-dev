@@ -1,0 +1,65 @@
+{
+  "ticker": "TPVG",
+  "as_of": "2025-12-31",
+  "source": "TPVG 10-K, accession 0001580345-26-000008",
+  "generated": "2026-03-31T19:59:28Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Unsecured Debt | 2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 0.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.5%",
+      "maturity": "2025"
+    },
+    {
+      "facility": "Unsecured Debt | 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 200000.0,
+      "aggregate_principal_k": 200000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.5%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "Unsecured Debt | 2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 125000.0,
+      "aggregate_principal_k": 125000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.0%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "Unsecured Debt | 8.11% 2028 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.0%",
+      "maturity": "2028"
+    },
+    {
+      "facility": "Revolving Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.75%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 375000.0,
+    "total_commitment_k": 675000.0,
+    "total_available_k": null
+  }
+}

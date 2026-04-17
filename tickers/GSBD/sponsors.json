@@ -1,0 +1,1104 @@
+{
+  "sponsors": {
+    "Zarya HoldCo, Inc. (dba Eptura)": {
+      "sponsor": "JMI Equity / Thoma Bravo / Waud Capital Partners",
+      "source": "JMI Equity, Thoma Bravo and Waud Capital acquired Eptura (formed via merger of Condeco and iOffice+SpaceIQ in Oct 2022). Worktech software"
+    },
+    "AQ Helios Buyer, Inc. (dba SurePoint)": {
+      "sponsor": "Aquiline Capital Partners",
+      "source": "Aquiline Capital Partners acquired majority stake in SurePoint Technologies in Jun 2021. AQ = Aquiline. Legal practice management software"
+    },
+    "Diligent Corporation": {
+      "sponsor": "Insight Partners / Clearlake Capital / Blackstone",
+      "source": "Insight Partners acquired Diligent in 2016. Clearlake invested 2018, Blackstone Tactical Opportunities invested 2020. Governance software"
+    },
+    "North Star Acquisitionco, LLC (dba Everway)": {
+      "sponsor": "Five Arrows (Rothschild)",
+      "source": "Five Arrows (Rothschild corporate PE arm) invested in Everway (fka Cambium/Don Johnston). Global provider of learning software and assistive technology"
+    },
+    "Xactly Corporation": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista acquired Xactly for $564M ($15.65/share) in Jul 2017. Sales performance management software"
+    },
+    "PlanSource Holdings, Inc.": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista acquired PlanSource in Mar 2019 from Great Hill Partners. Employee benefit management software"
+    },
+    "HowlCO LLC (dba Lone Wolf)": {
+      "sponsor": "Stone Point Capital",
+      "source": "Stone Point Capital made strategic investment in Lone Wolf Technologies in Oct 2020, replacing Vista Equity Partners. Real estate software"
+    },
+    "VRC Companies, LLC (dba Vital Records Control)": {
+      "sponsor": "Windjammer Capital Investors",
+      "source": "Windjammer Capital acquired VRC in 2017. Over 80 add-on acquisitions since. Records management and information governance"
+    },
+    "Acquia, Inc.": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista acquired Acquia for $1B in Sep 2019. Drupal-based web content management platform"
+    },
+    "Sundance Group Holdings, Inc. (dba NetDocuments)": {
+      "sponsor": "Warburg Pincus",
+      "source": "Warburg Pincus acquired NetDocuments from Clearlake Capital in May 2021. Cloud-based content services for legal"
+    },
+    "Pacvue Intermediate LLC (fka Assembly Intermediate LLC)": {
+      "sponsor": "Advent International",
+      "source": "Advent International backs Assembly (now rebranded as Pacvue). E-commerce acceleration platform"
+    },
+    "Volt Bidco, Inc. (dba Power Factors)": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista acquired Power Factors from Oaktree Capital Management in Jul 2021. Renewable energy asset performance management software"
+    },
+    "Honor HN Buyer, Inc": {
+      "sponsor": "Webster Equity Partners",
+      "source": "Webster Equity Partners acquired Honor Health Network in Oct 2021. Home-based personal care services for Medicaid population"
+    },
+    "One GI LLC": {
+      "sponsor": "Webster Equity Partners",
+      "source": "Webster Equity Partners formed One GI in 2020 via acquisition of Gastro One. Gastroenterology management services organization"
+    },
+    "ESO Solutions, Inc.": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista made strategic investment in ESO in Mar 2021, acquiring from Accel-KKR. EMS and fire department software"
+    },
+    "iCIMS, Inc.": {
+      "sponsor": "Vista Equity Partners / TA Associates",
+      "source": "Vista acquired majority stake in iCIMS in Sep 2018 at $1.2B. TA Associates joined as equal economic owner in 2022 at ~$3B valuation"
+    },
+    "PT Intermediate Holdings III, LLC (dba Parts Town)": {
+      "sponsor": "Berkshire Partners / Leonard Green & Partners",
+      "source": "Berkshire Partners acquired Parts Town in 2016. Leonard Green made minority investment in 2021. Global OEM parts distributor, $2.5B revenue"
+    },
+    "K2 Towers III, LLC": {
+      "sponsor": "Shamrock Capital Advisors / Peppertree Capital",
+      "source": "Shamrock Capital and Peppertree Capital invested in K2 Towers starting 2009. Wireless tower operator (subsequently acquired by American Tower)"
+    },
+    "Oliver Packaging and Equipment Company, LLC (fka Buffalo Merger Sub, LLC)": {
+      "sponsor": "Monomoy Capital Partners",
+      "source": "Monomoy acquired Oliver Packaging from Berwind Corp in Nov 2024. Food packaging systems and bakery equipment manufacturer since 1890"
+    },
+    "Computer Services, Inc.": {
+      "sponsor": "Centerbridge Partners / Bridgeport Partners",
+      "source": "Centerbridge and Bridgeport completed $1.6B take-private of CSI in Nov 2022. TA Associates invested Oct 2024 as strategic minority. Fintech/regtech"
+    },
+    "CloudBees, Inc.": {
+      "sponsor": "VC/growth-backed (Goldman Sachs, Delta-v Capital, Golub Capital)",
+      "source": "CloudBees raised $150M Series F at $1B valuation from Goldman Sachs Asset Management Private Credit, with Morgan Stanley Private Credit and Bridgepoint Credit. DevOps/CI-CD software. Not traditional PE buyout"
+    },
+    "Heartland Home Services, Inc. (fka Helios Buyer, Inc.)": {
+      "sponsor": "The Jordan Company (TJC) / Cobepa",
+      "source": "TJC (Resolute Fund IV) acquired Heartland from North Branch Capital in Dec 2020. Cobepa made significant minority investment. Residential HVAC/plumbing in Midwest"
+    },
+    "Blazing Star Shields Direct Parent, LLC (dba Shields Health Solutions)": {
+      "sponsor": "Sycamore Partners",
+      "source": "Sycamore Partners acquired Shields Health Solutions in Sep 2025. Previously backed by Welsh Carson and Walgreens. Health system specialty pharmacy"
+    },
+    "USN Opco LLC (dba Global Nephrology Solutions)": {
+      "sponsor": "Audax Private Equity",
+      "source": "Audax Private Equity invested in Global Nephrology Solutions (Panoramic Health) in Jan 2021. Physician-led kidney care"
+    },
+    "Premier Imaging, LLC (dba Lucid Health)": {
+      "sponsor": "Excellere Partners",
+      "source": "Excellere Partners invested in Premier Imaging (rebranded LucidHealth in 2018) starting 2016. Diagnostic radiology services"
+    },
+    "Smarsh, Inc.": {
+      "sponsor": "K1 Investment Management",
+      "source": "K1 acquired Smarsh in Jan 2016; merged with Actiance in 2017. Communications archiving and compliance software"
+    },
+    "Clearcourse Partnership Acquireco Finance Limited": {
+      "sponsor": "Aquiline Capital Partners",
+      "source": "Aquiline Capital Partners founded ClearCourse Partnership in 2018. UK-based software and payments platform for SMEs"
+    },
+    "NFM & J, L.P. (dba the Facilities Group)": {
+      "sponsor": "Greenbriar Equity Group / Revolent Capital Solutions",
+      "source": "Greenbriar made strategic growth investment in Feb 2022. Revolent Capital Solutions founded the platform. Janitorial services and facilities maintenance"
+    },
+    "MRI Software LLC": {
+      "sponsor": "TA Associates / GI Partners / Harvest Partners",
+      "source": "GI Partners invested 2015, TA Associates (largest holder) invested 2017, Harvest Partners joined 2020. Real estate software. PE owners explored $10B exit"
+    },
+    "Sweep Purchaser LLC": {
+      "sponsor": "Warburg Pincus",
+      "source": "Warburg Pincus acquired Sweeping Corporation of America (SCA) from Soundcore Capital Partners in Nov 2020. Largest US power sweeping company"
+    },
+    "Jupiter Refuel Canada Buyer Inc. (dba 4Refuel)": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital completed acquisition of 4Refuel from Finning International for up to CAD 400M in Jul 2025. Mobile refueling services"
+    },
+    "AGS Health BCP Holdings, Inc. (dba AGS Health)": {
+      "sponsor": "EQT Partners (fka Baring Private Equity Asia)",
+      "source": "BPEA acquired AGS Health in 2019 for $320M; became EQT portfolio via $7.5B BPEA takeover in 2022. Healthcare IT revenue cycle management"
+    },
+    "FS WhiteWater Borrower, LLC (fka Whitewater Holding Company LLC)": {
+      "sponsor": "Goldman Sachs / Blue Owl",
+      "source": "Goldman Sachs and Blue Owl co-investment in WhiteWater"
+    },
+    "EDB Parent, LLC (dba Enterprise DB)": {
+      "sponsor": "Great Hill Partners / Bain Capital Ventures",
+      "source": "Great Hill Partners made majority investment in EnterpriseDB (PostgreSQL database company) in 2020. Open-source enterprise database"
+    },
+    "Streamland Media Midco LLC": {
+      "sponsor": "Trive Capital / Five Crowns Capital",
+      "source": "Trive Capital acquired Streamland Media in Aug 2018. Post-production services for film and TV"
+    },
+    "WebPT, Inc.": {
+      "sponsor": "Warburg Pincus",
+      "source": "Warburg Pincus acquired majority from Battery Ventures in Aug 2019. Leading EMR/practice management for rehab therapy"
+    },
+    "Argos Health Holdings, Inc": {
+      "sponsor": "Welsh, Carson, Anderson & Stowe (WCAS)",
+      "source": "WCAS acquired Argos Health in Sep 2021. Merged with EnableComp in Dec 2021. Workers' comp and complex claims recovery"
+    },
+    "Chess.com, LLC (fka Checkmate Finance Merger Sub, LLC)": {
+      "sponsor": "General Atlantic (growth equity)",
+      "source": "General Atlantic made major investment in Chess.com in Dec 2021. World's largest online chess platform. Not traditional PE buyout"
+    },
+    "GS AcquisitionCo, Inc. (dba Insightsoftware)": {
+      "sponsor": "TA Associates / Hg Capital",
+      "source": "TA formed insightsoftware in 2018. Genstar invested 2019. Hg invested ~$1B in 2021 at ~$4B EV. Financial reporting and enterprise performance management"
+    },
+    "Pluralsight, Inc.": {
+      "sponsor": "Lender consortium (fka Vista Equity Partners)",
+      "source": "Vista took Pluralsight private for $3.5B in 2021 but wrote off equity. In 2024 debt-for-equity swap, lenders (Blue Owl, Ares, BlackRock, etc.) converted ~$1.2B debt into 85% equity"
+    },
+    "Khoros, LLC (fka Lithium Technologies, Inc.)": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista acquired Spredfast in Oct 2018 and merged with Lithium Technologies to form Khoros in Mar 2019. Social media management platform"
+    },
+    "Valet Waste Holdings, Inc. (dba Valet Living)": {
+      "sponsor": "GI Partners",
+      "source": "GI Partners acquired Valet Living from Ares Management and Harvest Partners in Nov 2020. Multifamily amenities provider"
+    },
+    "Aria Systems, LLC": {
+      "sponsor": "VC/growth-backed (Goldman Sachs Asset Management, Bain Capital Ventures)",
+      "source": "Goldman Sachs Asset Management invested $90M in growth capital in 2021. Bain Capital Ventures was earlier investor. Cloud-based subscription billing. Not traditional PE buyout"
+    },
+    "Fullsteam Operations LLC": {
+      "sponsor": "Aquiline Capital Partners",
+      "source": "Aquiline Capital Partners founded Fullsteam in 2018. ADIA made significant minority investment in 2023. Sixth Street also invested. Vertical SaaS and payments"
+    },
+    "Riverpoint Medical, LLC": {
+      "sponsor": "Arlington Capital Partners",
+      "source": "Arlington Capital acquired majority interest in Riverpoint Medical in Jun 2019 (Fund V). Medical device contract manufacturing"
+    },
+    "Eptam Plastics, Ltd.": {
+      "sponsor": "Arsenal Capital Partners",
+      "source": "Arsenal invested in Eptam Plastics (precision plastics)"
+    },
+    "Lobos Parent, Inc. (dba NEOGOV)": {
+      "sponsor": "Warburg Pincus / The Carlyle Group",
+      "source": "Warburg Pincus invested in Oct 2016. Carlyle joined as co-investor Jun 2021. EQT and CPP Investments agreed to acquire for ~$3B in Jul 2025. Government HR software"
+    },
+    "Admiral Buyer, Inc. (dba Fidelity Payment Services)": {
+      "sponsor": "PSG (Providence Strategic Growth)",
+      "source": "PSG acquired Fidelity Payment Services from H.I.G. Growth Partners in Jul 2022. Integrated payment processing (now rebranded as Sola)"
+    },
+    "NC Topco, LLC (dba NContracts)": {
+      "sponsor": "Hg Capital",
+      "source": "Hg acquired NContracts from Gryphon Investors in Sep 2024, merging with Venminder. Risk management software for financial services"
+    },
+    "BCPE HIPH Parent, Inc. (dba Harrington Industrial Plastics)": {
+      "sponsor": "Bain Capital Private Equity",
+      "source": "BCPE (Bain Capital Private Equity) acquired Harrington from Nautic Partners in Oct 2023. Specialty distributor of flow control process solutions"
+    },
+    "Zeus Company LLC": {
+      "sponsor": "EQT Partners",
+      "source": "EQT X fund acquired Zeus from the Tourville family at $3.4B valuation in early 2024. Fluoropolymer tubing for medical devices"
+    },
+    "Summit Buyer, LLC (dba Classic Collision)": {
+      "sponsor": "TPG Capital",
+      "source": "TPG Capital acquired Classic Collision from New Mountain Capital in Q2 2024. National collision repair multi-site operator"
+    },
+    "NCWS Intermediate, Inc. (dba National Carwash Solutions)": {
+      "sponsor": "Berkshire Partners",
+      "source": "Berkshire Partners recapitalized NCS from AEA Investors SBF in Jan 2021. Car wash equipment and solutions provider"
+    },
+    "AAG KP Borrower LLC (dba KUIU)": {
+      "sponsor": "Main Post Partners (sold Dec 2025 to Cox Enterprises consortium)",
+      "source": "Main Post Partners invested in KUIU in Jan 2017 at ~$217M valuation. Sold to conservation-focused investor group led by Cox Enterprises in Dec 2025"
+    },
+    "Edko, LLC": {
+      "sponsor": "Incline Equity Partners",
+      "source": "Incline Equity Partners acquired Edko. Utility-focused vegetation management services, headquartered in Bossier City, LA"
+    },
+    "Rubix Foods, LLC": {
+      "sponsor": "Wind Point Partners",
+      "source": "Wind Point invested in Rubix Foods (ingredient solutions)"
+    },
+    "DECA Dental Holdings LLC": {
+      "sponsor": "Blackstone Tactical Opportunities / Blue Sea Capital",
+      "source": "Blue Sea Capital originally partnered with DECA founder Dr. Ahmed in 2015. Blackstone Tactical Opportunities invested in Aug 2021. Dental practice management"
+    },
+    "PDDS Holdco, Inc. (dba Planet DDS)": {
+      "sponsor": "Aquiline Capital Partners / Level Equity",
+      "source": "Aquiline recapitalized Planet DDS in Jun 2022. Level Equity original sponsor since 2019 and retained stake. Cloud-based dental software platform"
+    },
+    "MerchantWise Solutions, LLC (dba HungerRush)": {
+      "sponsor": "Corsair Capital",
+      "source": "Corsair Capital acquired HungerRush from CapStreet Group in Jun 2022. Restaurant POS/ordering/payments software"
+    },
+    "CFS Management, LLC (dba Center for Sight Management)": {
+      "sponsor": "Imperial Capital Group",
+      "source": "PE-backed ophthalmology practice management"
+    },
+    "Rocket Bidco, Inc. (dba Recochem)": {
+      "sponsor": "CapVest Partners",
+      "source": "CapVest Partners acquired Recochem from H.I.G. Capital in Nov 2023. Automotive and household chemicals manufacturer"
+    },
+    "Southeast Mechanical, LLC": {
+      "sponsor": "Palladin Consumer Retail Partners",
+      "source": "Palladin made majority investment in SEM Holdings (Southeast Mechanical) in Jul 2022. Residential HVAC platform in Southeast US"
+    },
+    "Rotation Buyer, LLC (dba Rotating Machinery Services)": {
+      "sponsor": "Arcline Investment Management",
+      "source": "Arcline acquired RMS from Cortec Group Fund VI in Jan 2025. Aftermarket services for rotating equipment in refineries and chemical plants"
+    },
+    "Rodeo Buyer Company (dba Absorb Software)": {
+      "sponsor": "Welsh, Carson, Anderson & Stowe (WCAS)",
+      "source": "WCAS acquired Absorb Software from Silversmith Capital Partners for ~$630M CAD in Jun 2021. Learning management system (LMS)"
+    },
+    "TEI Intermediate LLC (dba Triumvirate Environmental)": {
+      "sponsor": "Berkshire Partners",
+      "source": "Berkshire Partners acquired controlling stake from founder in Feb 2025 at $1.8B valuation. Hazardous waste management and environmental services"
+    },
+    "Wine.com, LLC": {
+      "sponsor": "VC/growth-backed",
+      "source": "Wine.com is a venture-backed online wine retailer. Not a traditional PE buyout. Investors include Benchmark Capital and others"
+    },
+    "QBS Parent, Inc. (dba Quorum Software)": {
+      "sponsor": "Thoma Bravo (sold to Francisco Partners Mar 2025)",
+      "source": "Thoma Bravo acquired Quorum from Silver Lake in Aug 2018. Francisco Partners agreed to acquire from Thoma Bravo in Mar 2025. Energy software"
+    },
+    "CORA Health Holdings Corp": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. invested in CORA Health"
+    },
+    "Hamilton Thorne, Inc.": {
+      "sponsor": "Publicly Traded (TSX: HTL)",
+      "source": "Hamilton Thorne is publicly traded on the TSX Venture Exchange. In vitro fertilization and cell biology equipment"
+    },
+    "Thrasio, LLC": {
+      "sponsor": "Advent International / Silver Lake (bankrupt)",
+      "source": "Advent International was largest shareholder, Silver Lake co-led $1B round in 2021 at $6B+ peak valuation. Filed for bankruptcy in 2024. Amazon aggregator"
+    },
+    "Sonar Acquisitionco, Inc. (dba SimPRO)": {
+      "sponsor": "K1 Investment Management",
+      "source": "K1 Investment Management made $350M+ investment in simPRO in 2021. Field service management software for trades"
+    },
+    "BCTO Bluebill Buyer, Inc. (dba Ren)": {
+      "sponsor": "Bain Capital Tech Opportunities",
+      "source": "BCTO (Bain Capital Tech Opportunities) acquired majority stake in Ren in Jul 2023 at ~$300M. Philanthropy technology and donor-advised fund platform"
+    },
+    "AGS Health BCP LLC (dba AGS Health)": {
+      "sponsor": "EQT Partners (fka Baring Private Equity Asia)",
+      "source": "Same sponsor as AGS Health BCP Holdings. BCP = BPEA (Baring Private Equity Asia). Revenue cycle management"
+    },
+    "Newtek Merchant Solutions, LLC (dba NewtekOne)": {
+      "sponsor": "Publicly Traded (NASDAQ: NEWT)",
+      "source": "NewtekOne is a publicly traded business services company. GSBD holds lending exposure, not PE-backed"
+    },
+    "LS Clinical Services Holdings, Inc (dba CATO)": {
+      "sponsor": "Water Street Healthcare Partners / JLL Partners",
+      "source": "Water Street and JLL Partners backed CATO SMS (now Allucent). CRO providing drug development services for pharma/biotech"
+    },
+    "Frontline Road Safety Operations, LLC": {
+      "sponsor": "Bain Capital",
+      "source": "Bain Capital acquired Frontline Road Safety from The Sterling Group in Mar 2025. Largest US pavement marking and road safety services provider"
+    },
+    "Vamos Bidco, Inc. (dba VIP)": {
+      "sponsor": "TowerBrook Capital Partners",
+      "source": "TowerBrook invested in VIP (automotive parts)"
+    },
+    "SI Swan UK Bidco Limited (dba Sapiens International)": {
+      "sponsor": "Advent International",
+      "source": "Advent acquired Sapiens International for $43.50/share (~$2.5B equity) in Dec 2025. Insurance software. Formula Systems retained 18.6% stake"
+    },
+    "Chase Industries, Inc. (dba Senneca Holdings)": {
+      "sponsor": "Kohlberg & Company",
+      "source": "Kohlberg acquired Senneca Holdings from Audax Private Equity in May 2018. Specialty doors manufacturer"
+    },
+    "Prophix Software Inc. (dba Pound Bidco)": {
+      "sponsor": "Hg Capital",
+      "source": "Hg Capital acquired majority stake in Prophix for ~$500-600M. Corporate performance management software, headquartered in Mississauga, Ontario"
+    },
+    "Ideal Components Acquisition, LLC (dba Ideal Tridon)": {
+      "sponsor": "TruArc Partners (sold to Nautic Partners Jul 2025)",
+      "source": "TruArc Partners owned since 2017. Nautic Partners completed acquisition in Jul 2025. Engineered components (clamps, brackets, fittings)"
+    },
+    "Onyx CenterSource, Inc.": {
+      "sponsor": "FitzWalter Capital (fka H.I.G. Capital)",
+      "source": "FitzWalter Capital acquired Onyx CenterSource. B2B payments and business intelligence for hospitality industry"
+    },
+    "GovDelivery Holdings, LLC (dba Granicus, Inc.)": {
+      "sponsor": "Vista Equity Partners / Harvest Partners",
+      "source": "Vista acquired majority in 2016. Harvest Partners co-invested in 2020. Government digital services and communications platform"
+    },
+    "Superman Holdings, LLC (dba Foundation Software)": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo acquired Foundation Software in 2020. Construction accounting software and payroll services for specialty contractors"
+    },
+    "IMO Investor Holdings, Inc. (fka Intelligent Medical Objects, Inc.)": {
+      "sponsor": "Thomas H. Lee Partners (THL)",
+      "source": "THL acquired IMO for ~$1.5B from Warburg Pincus in Q1 2022. Clinical data intelligence and medical terminology mapping"
+    },
+    "Zeppelin US Buyer Inc. (dba Global Critical Logistics)": {
+      "sponsor": "ATL Partners (sold to Providence Equity Partners Aug 2025)",
+      "source": "ATL Partners sold majority stake in GCL to Providence Equity Partners for $1B+ in Aug 2025. Live events and luxury goods logistics (Rock-it Cargo)"
+    },
+    "Project Accelerate Parent, LLC (dba ABC Fitness)": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo acquired ABC Financial Services in Jan 2018. Gym/fitness club management and billing software"
+    },
+    "Coretrust Purchasing Group LLC": {
+      "sponsor": "Blackstone / HealthTrust",
+      "source": "CoreTrust spun out as standalone company with Blackstone backing. Group purchasing organization for PE portfolio companies, mid-sized enterprises"
+    },
+    "USA DeBusk, LLC": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital acquired USA DeBusk from First Reserve in May 2024. Industrial cleaning and infrastructure maintenance services"
+    },
+    "ML Holdco, LLC (dba MeridianLink)": {
+      "sponsor": "Centerbridge Partners",
+      "source": "Centerbridge completed $2.0B take-private of MeridianLink in Oct 2025. Digital lending and account opening SaaS for financial institutions"
+    },
+    "Supreme Fitness Group NY Holdings, LLC": {
+      "sponsor": "Planet Fitness franchisee / PE-backed",
+      "source": "Planet Fitness franchisee group"
+    },
+    "Sunshine Cadence HoldCo, LLC (dba Cadence Education)": {
+      "sponsor": "Apax Partners",
+      "source": "Apax acquired Cadence Education from Morgan Stanley Capital Partners in Mar 2020. One of largest US private preschool operators with 225+ schools"
+    },
+    "Tarpon Towers II LLC": {
+      "sponsor": "Unknown (infrastructure/tower investor)",
+      "source": "Tarpon Towers is a wireless tower operator. Specific PE sponsor not publicly identified. Infrastructure investment vehicle"
+    },
+    "Runway Bidco, LLC (dba Redwood Software)": {
+      "sponsor": "Vista Equity Partners / Warburg Pincus",
+      "source": "Vista and Warburg Pincus acquired Redwood Software from Turn/River Capital in Sep 2024 at ~$2.5B including debt. Process automation software"
+    },
+    "Airwavz Solutions, Inc.": {
+      "sponsor": "Columbia Capital",
+      "source": "Columbia Capital invested in Airwavz (wireless infrastructure)"
+    },
+    "3SI Security Systems, Inc.": {
+      "sponsor": "Resilience Capital Partners",
+      "source": "Resilience Capital Partners invested in 3SI Security Systems"
+    },
+    "PPW Aero Buyer, Inc. (dba Pursuit Aerospace)": {
+      "sponsor": "Greenbriar Equity Group / Clayton, Dubilier & Rice (CD&R)",
+      "source": "Greenbriar and CD&R acquired Pursuit Aerospace in Feb 2023. Aircraft engine components manufacturing (formed from Whitcraft/Paradigm Precision)"
+    },
+    "Skyway Towers Intermediate LLC": {
+      "sponsor": "Unknown (infrastructure/tower investor)",
+      "source": "Skyway Towers is a wireless tower operator. Specific PE sponsor not publicly identified"
+    },
+    "Elemica Parent, Inc.": {
+      "sponsor": "Eurazeo",
+      "source": "Eurazeo acquired Elemica from Thoma Bravo for ~$390M in Sep 2019. Supply chain operating network for process industries"
+    },
+    "Precision Concepts Parent Inc.": {
+      "sponsor": "ONCAP (sold to Sterling Group Jul 2025)",
+      "source": "ONCAP acquired Precision Concepts (fka IntraPac) in Dec 2017. Sterling Group acquired majority from ONCAP in Jul 2025. Specialty rigid packaging"
+    },
+    "Westwood Professional Services Inc.": {
+      "sponsor": "Blackstone Energy Transition Partners",
+      "source": "Blackstone Energy Transition Partners made majority investment in Aug 2024, acquiring from Endurance Partners. Engineering firm focused on renewables and infrastructure"
+    },
+    "ABC Investment Holdco Inc. (dba ABC Plumbing)": {
+      "sponsor": "Roark Capital Group",
+      "source": "Roark Capital backs ABC Plumbing. Residential plumbing services platform"
+    },
+    "UFT Buyer LLC (dba United Flow Technologies)": {
+      "sponsor": "Sentinel Capital Partners",
+      "source": "Sentinel invested in United Flow Technologies"
+    },
+    "Recorded Books Inc. (dba RBMedia)": {
+      "sponsor": "KKR",
+      "source": "KKR acquired RBmedia from Shamrock Capital Advisors in 2018. World's largest audiobook producer and publisher"
+    },
+    "Tropical Bidco, LLC (dba Tropical Cheese)": {
+      "sponsor": "Butterfly Equity",
+      "source": "Butterfly Equity invested in Tropical Cheese Industries"
+    },
+    "Ark Data Centers, LLC": {
+      "sponsor": "Unknown (data center investor)",
+      "source": "Ark Data Centers operates data center facilities. Specific PE sponsor not publicly identified from available sources"
+    },
+    "EIP Consolidated, LLC (dba Everest Infrastructure)": {
+      "sponsor": "Unknown (infrastructure investor)",
+      "source": "Everest Infrastructure Partners is a wireless tower operator. Specific PE sponsor not publicly identified"
+    },
+    "Octagon Towers LLC": {
+      "sponsor": "Unknown (infrastructure/tower investor)",
+      "source": "Octagon Towers is a wireless tower operator. Specific PE sponsor not publicly identified"
+    },
+    "Legends Hospitality Holding Company, LLC (fka ASM Buyer, Inc.)": {
+      "sponsor": "Sixth Street Partners",
+      "source": "Sixth Street acquired Legends in 2021. Legends then acquired ASM Global from AEG/Onex in 2024, forming Legends Global. Premium hospitality and venue management"
+    },
+    "MPI Engineered Technologies, LLC": {
+      "sponsor": "Industrial Growth Partners",
+      "source": "Industrial Growth Partners invested in MPI"
+    },
+    "Buckeye Acquiror LLC (dba Superior Environmental Solutions)": {
+      "sponsor": "Pfingsten Partners",
+      "source": "Pfingsten invested in Superior Environmental Solutions"
+    },
+    "CI (Quercus) Intermediate Holdings, LLC (dba SavATree)": {
+      "sponsor": "Apax Partners",
+      "source": "Apax acquired SavATree from CI Capital Partners in Q4 2021. CI Capital had invested since Jun 2017 and tripled revenues. Tree, shrub, and lawn care"
+    },
+    "US Signal Company, LLC": {
+      "sponsor": "Igneo Infrastructure Partners",
+      "source": "Igneo Infrastructure Partners acquired US Signal in 2023. Data center and network solutions provider in upper Midwest"
+    },
+    "VisionSafe Holdings, Inc.": {
+      "sponsor": "Crescendo Capital Partners",
+      "source": "PE-backed aviation safety technology"
+    },
+    "AI Titan Parent, Inc. (dba Prometheus)": {
+      "sponsor": "Advent International / Leonard Green & Partners",
+      "source": "Advent/LGP invested Jun 2024. Genstar Capital (acquired 2019 from Francisco Partners) retained meaningful stake. Industrial maintenance software (Prometheus Group)"
+    },
+    "mPulse Mobile, Inc. (dba Zipari Inc.)": {
+      "sponsor": "PSG (Providence Strategic Growth)",
+      "source": "PSG invested in mPulse/Zipari"
+    },
+    "EnviroSmart, LLC (dba ES Integrated)": {
+      "sponsor": "Kinderhook Industries",
+      "source": "Kinderhook invested in EnviroSmart/ES Integrated"
+    },
+    "Everest Clinical Research Corporation (fka 1272775 B.C. LTD.)": {
+      "sponsor": "ArchiMed Group",
+      "source": "ArchiMed acquired Everest Clinical Research"
+    },
+    "Guidepoint Security Holdings, LLC (fka GPS Phoenix Buyer, Inc.)": {
+      "sponsor": "Enlightenment Capital",
+      "source": "Enlightenment Capital invested in Guidepoint Security"
+    },
+    "A Place For Mom, Inc.": {
+      "sponsor": "General Atlantic / Silver Lake",
+      "source": "General Atlantic and Silver Lake acquired majority from Warburg Pincus in Aug 2017. Insight Partners invested $175M in 2022. Senior care referral platform"
+    },
+    "Wildcat Solutions Holdings, LLC (dba O6 Environmental)": {
+      "sponsor": "Kinderhook Industries",
+      "source": "Kinderhook invested in O6 Environmental"
+    },
+    "Convenient Payments Acquisition, Inc.": {
+      "sponsor": "Parthenon Capital Partners",
+      "source": "Parthenon invested in Convenient Payments"
+    },
+    "VASA Fitness Buyer, Inc.": {
+      "sponsor": "Silver Oak Services Partners",
+      "source": "Silver Oak Services Partners invested in VASA Fitness in Nov 2014. Value-priced fitness club chain in western US"
+    },
+    "Elah Holdings, Inc.": {
+      "sponsor": "Publicly traded (OTC)",
+      "source": "Elah Holdings is a publicly traded holding company"
+    },
+    "Octane Purchaser, Inc. (dba Office Ally)": {
+      "sponsor": "Francisco Partners",
+      "source": "Francisco Partners acquired Office Ally (healthcare tech)"
+    },
+    "Circustrix Holdings, LLC (dba SkyZone)": {
+      "sponsor": "Palladium Equity Partners",
+      "source": "Palladium Equity Partners invested $200M+ in CircusTrix in Jan 2017. CircusTrix acquired Sky Zone in Feb 2018 creating world's largest trampoline park operator"
+    },
+    "Everest Clinical Research Corporation": {
+      "sponsor": "ArchiMed Group",
+      "source": "ArchiMed acquired Everest Clinical Research"
+    },
+    "Towerco IV Holdings, LLC": {
+      "sponsor": "Unknown (infrastructure/tower investor)",
+      "source": "Towerco IV is a wireless tower holding company. Specific PE sponsor not publicly identified"
+    },
+    "Accommodations Plus Technologies LLC": {
+      "sponsor": "TSG Consumer Partners",
+      "source": "TSG invested in APT (hotel group accommodation technology)"
+    },
+    "Wellness AcquisitionCo, Inc. (dba SPINS)": {
+      "sponsor": "TA Associates",
+      "source": "TA Associates invested in SPINS. Natural/organic/specialty products data analytics and insights platform"
+    },
+    "Omega Midwest Buyer, LLC (dba Omega Fitness Holdings)": {
+      "sponsor": "L Catterton",
+      "source": "L Catterton invested in Omega Fitness (gym operator)"
+    },
+    "Kene Acquisition, Inc. (dba Entrust)": {
+      "sponsor": "Kohlberg & Company",
+      "source": "Kohlberg acquired Entrust (now ENTRUST Solutions Group) in 2019. Sold to Leidos for $2.4B. Utility engineering and infrastructure services"
+    },
+    "Celero Commerce LLC": {
+      "sponsor": "THL Partners",
+      "source": "THL Partners acquired Celero Commerce (payments technology)"
+    },
+    "Bayside Opco, LLC (dba Pro-PT)": {
+      "sponsor": "Revelstoke Capital Partners",
+      "source": "Revelstoke invested in Pro-PT (physical therapy)"
+    },
+    "Jupiter Refuel US Buyer, Inc. (dba 4Refuel)": {
+      "sponsor": "H.I.G. Capital",
+      "source": "Same as Jupiter Refuel Canada. H.I.G. Capital acquired 4Refuel from Finning International in Jul 2025. US operations entity"
+    },
+    "Pearl Acquisition Buyer, Inc. (dba Alliance Technical Group)": {
+      "sponsor": "Kinderhook Industries",
+      "source": "Kinderhook invested in Alliance Technical Group (environmental services)"
+    },
+    "Edition Holdings, Inc. (dba Enverus)": {
+      "sponsor": "Hellman & Friedman / Genstar Capital (sold to Blackstone Aug 2025)",
+      "source": "H&F acquired majority from Genstar in Jun 2021. Blackstone agreed to acquire in Aug 2025. Energy data analytics, $500M+ ARR"
+    },
+    "Arrow Buyer, Inc. (dba Archer Technologies)": {
+      "sponsor": "Cinven",
+      "source": "Cinven acquired Archer from Clearlake Capital and STG (Symphony Technology Group) in Jul 2023. Integrated risk management/GRC software"
+    },
+    "Sweep Midco LLC": {
+      "sponsor": "Warburg Pincus",
+      "source": "Same as Sweep Purchaser LLC (Sweeping Corporation of America). Midco holding entity in the structure"
+    },
+    "Iracore International Holdings, Inc.": {
+      "sponsor": "Wind Point Partners",
+      "source": "Wind Point Partners invested in Iracore (pipe lining)"
+    },
+    "Highfive Dental Holdco, LLC": {
+      "sponsor": "Smile Brands / Gryphon Investors",
+      "source": "PE-backed dental platform"
+    },
+    "Singlewire Software, LLC": {
+      "sponsor": "PSG (Providence Strategic Growth)",
+      "source": "PSG invested in Singlewire Software"
+    },
+    "Abacus Data Holdings, Inc. (dba Clutch Intermediate Holdings)": {
+      "sponsor": "Comvest Partners",
+      "source": "Comvest Partners invested in Clutch (data analytics)"
+    },
+    "Coding Solutions Acquisition, Inc. (dba CorroHealth)": {
+      "sponsor": "Quest Analytics / PE-backed",
+      "source": "CorroHealth provides healthcare revenue cycle management"
+    },
+    "SpendMend Holdings LLC": {
+      "sponsor": "Norwest Equity Partners",
+      "source": "Norwest invested in SpendMend (healthcare spend analytics)"
+    },
+    "Frontgrade Technologies Holdings Inc.": {
+      "sponsor": "Veritas Capital",
+      "source": "Veritas Capital acquired Frontgrade Technologies from CAES in Oct 2022. Defense and aerospace electronics"
+    },
+    "Whitewater Holding Company LLC": {
+      "sponsor": "Goldman Sachs / Blue Owl",
+      "source": "Goldman Sachs and Blue Owl co-investment in WhiteWater"
+    },
+    "ATX Networks Corp.": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital invested in ATX Networks (broadband)"
+    },
+    "SEM Holdings, LLC (dba Southeast Mechanical, LLC)": {
+      "sponsor": "Palladin Consumer Retail Partners",
+      "source": "Same as Southeast Mechanical. Palladin made majority investment in Jul 2022. Residential HVAC platform"
+    },
+    "Bayside Parent, LLC (dba Pro-PT)": {
+      "sponsor": "Revelstoke Capital Partners",
+      "source": "Revelstoke invested in Pro-PT"
+    },
+    "RPC ABC Investment Holdings LLC (dba ABC Plumbing)": {
+      "sponsor": "Roark Capital Group",
+      "source": "Same as ABC Investment Holdco. RPC = Roark Capital. Residential plumbing services"
+    },
+    "BSI3 Menu Buyer, Inc (dba Kydia)": {
+      "sponsor": "Coltala Holdings",
+      "source": "Coltala invested in Kydia (food service technology)"
+    },
+    "Aurora Acquireco, Inc. (dba AuditBoard)": {
+      "sponsor": "Hg Capital",
+      "source": "Hg acquired AuditBoard for $3B+ in 2024. Connected risk management and audit platform"
+    },
+    "Engage2Excel, Inc.": {
+      "sponsor": "MidOcean Partners",
+      "source": "MidOcean invested in Engage2Excel (HR solutions)"
+    },
+    "iWave Information Systems, Inc.": {
+      "sponsor": "Founder-led / PE-backed",
+      "source": "iWave provides fundraising intelligence for nonprofits"
+    },
+    "CST Holding Company (dba Intoxalock)": {
+      "sponsor": "WCAS (Welsh, Carson, Anderson & Stowe)",
+      "source": "WCAS invested in Intoxalock (ignition interlock)"
+    },
+    "AQ Sunshine, Inc. (dba Relation Insurance)": {
+      "sponsor": "Aquiline Capital Partners",
+      "source": "AQ = Aquiline Capital Partners. Relation Insurance Services is a personal and commercial lines insurance distribution platform"
+    },
+    "Geo TopCo Corporation (fka Geotechnical Merger Sub, Inc.)": {
+      "sponsor": "Trilantic North America",
+      "source": "Trilantic invested in Geo TopCo (geotechnical engineering)"
+    },
+    "CURiO Brands LLC": {
+      "sponsor": "Center Lane Partners",
+      "source": "Center Lane Partners invested in CURiO Brands (home fragrance)"
+    },
+    "Splash Car Wash, Inc.": {
+      "sponsor": "Palladin Consumer Retail Partners",
+      "source": "Palladin acquired Splash Car Wash"
+    },
+    "KPA Parent Holdings, Inc.": {
+      "sponsor": "WindPoint Partners",
+      "source": "WindPoint Partners invested in KPA (EHS/compliance software)"
+    },
+    "Spectrum Safety Solutions Purchaser, LLC (dba Carrier Industrial Fire)": {
+      "sponsor": "Sentinel Capital Partners",
+      "source": "Sentinel invested in Spectrum Safety Solutions"
+    },
+    "Mandrake Bidco, Inc. (dba Miratech)": {
+      "sponsor": "Horizon Capital / PE-backed",
+      "source": "Miratech is a global technology services company"
+    },
+    "Trystar, LLC": {
+      "sponsor": "Blackstone",
+      "source": "Blackstone invested in Trystar (power distribution)"
+    },
+    "Vardiman Black Holdings, LLC (dba Specialty Dental Brands)": {
+      "sponsor": "Varsity Healthcare Partners",
+      "source": "Varsity Healthcare invested in Specialty Dental Brands"
+    },
+    "VisionSafe Parent, LLC": {
+      "sponsor": "Crescendo Capital Partners",
+      "source": "PE-backed aviation safety technology"
+    },
+    "PPT Management Holdings, LLC (dba Pro-PT)": {
+      "sponsor": "Revelstoke Capital Partners",
+      "source": "Revelstoke invested in Pro-PT"
+    },
+    "MedeAnalytics Parent, Inc.": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo invested in MedeAnalytics (healthcare analytics)"
+    },
+    "FS WhiteWater Holdings, LLC (fka Whitewater Holding Company LLC)": {
+      "sponsor": "Goldman Sachs / Blue Owl",
+      "source": "Goldman Sachs and Blue Owl co-investment in WhiteWater"
+    },
+    "Prairie Provident Resources, Inc.": {
+      "sponsor": "Publicly Traded (TSX: PPR)",
+      "source": "Prairie Provident Resources is/was a publicly traded Canadian oil and gas exploration company"
+    },
+    "Aryeh Bidco Investment Ltd. (dba Dentalcorp)": {
+      "sponsor": "L Catterton",
+      "source": "L Catterton led take-private of Dentalcorp for ~C$2.7B in 2024. Previously publicly traded (TSX: DNTL). Largest Canadian dental services organization"
+    },
+    "Clearwater Analytics, LLC": {
+      "sponsor": "Publicly Traded (NYSE: CWAN)",
+      "source": "Clearwater Analytics has been publicly traded since Sep 2021 IPO. Investment management reporting and analytics SaaS"
+    },
+    "TL Sapphire Holdings, Inc. (dba SouthernCarlson)": {
+      "sponsor": "Blackstone",
+      "source": "Blackstone invested in SouthernCarlson"
+    },
+    "Wine.com, Inc.": {
+      "sponsor": "VC/growth-backed",
+      "source": "Same company as Wine.com, LLC. Online wine retailer. Not traditional PE buyout"
+    },
+    "Thrasio Holdings, Inc.": {
+      "sponsor": "Advent International / Silver Lake (bankrupt)",
+      "source": "Same as Thrasio, LLC. Holding company entity. Filed for bankruptcy in 2024"
+    },
+    "Streamland Media Holdings LLC": {
+      "sponsor": "Trive Capital / Five Crowns Capital",
+      "source": "Same as Streamland Media Midco. Holdings entity for post-production services platform"
+    },
+    "SDB HOLDCO, LLC (dba Specialty Dental Brands)": {
+      "sponsor": "Varsity Healthcare Partners",
+      "source": "Varsity Healthcare invested in Specialty Dental Brands"
+    },
+    "MedeAnalytics Group Holdings, LLC": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo invested in MedeAnalytics (healthcare analytics)"
+    },
+    "KDOR Holdings Inc. (dba Senneca Holdings)": {
+      "sponsor": "Kohlberg & Company",
+      "source": "Same as Chase Industries/Senneca Holdings. KDOR = Kohlberg. Specialty doors manufacturer"
+    },
+    "Anaplan, Inc.": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo acquired Anaplan for $10.7B in June 2022"
+    },
+    "Auctane, Inc.": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo acquired Stamps.com (now Auctane) for $6.6B in October 2021"
+    },
+    "Flexera Software LLC": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo acquired Flexera in 2020 from Ontario Teachers' Pension Plan"
+    },
+    "Hyland Software, Inc.": {
+      "sponsor": "Thoma Bravo",
+      "source": "Thoma Bravo acquired Hyland Software in 2017"
+    },
+    "PetVet Care Centers, LLC": {
+      "sponsor": "KKR",
+      "source": "KKR acquired PetVet Care Centers in 2018"
+    },
+    "Relativity ODA LLC": {
+      "sponsor": "Silver Lake",
+      "source": "Silver Lake invested in Relativity (e-discovery software) in 2021"
+    },
+    "Patriot Growth Insurance Services, LLC": {
+      "sponsor": "GI Partners / Summit Partners",
+      "source": "GI Partners and Summit Partners back Patriot Growth Insurance Services"
+    },
+    "The Hiller Companies, LLC": {
+      "sponsor": "Code Hennessy & Simmons (CHS)",
+      "source": "CHS acquired The Hiller Companies, fire protection services"
+    },
+    "Foundation Consumer Brands, LLC": {
+      "sponsor": "Charlesbank Capital Partners",
+      "source": "Charlesbank Capital Partners acquired Foundation Consumer Brands"
+    },
+    "Artifact Bidco, Inc.": {
+      "sponsor": "EQT",
+      "source": "EQT acquired Avetta (safety/supply chain compliance) in 2022"
+    },
+    "Artifact Bidco, Inc. (dba Avetta)": {
+      "sponsor": "EQT",
+      "source": "EQT acquired Avetta (safety/supply chain compliance) in 2022"
+    },
+    "Blast Bidco Inc.": {
+      "sponsor": "Apax Partners",
+      "source": "Apax Partners acquired Bazooka Candy Brands"
+    },
+    "Blast Bidco Inc. (dba Bazooka Candy Brands)": {
+      "sponsor": "Apax Partners",
+      "source": "Apax Partners acquired Bazooka Candy Brands (web-verified)"
+    },
+    "Crewline Buyer, Inc.": {
+      "sponsor": "Francisco Partners / TPG",
+      "source": "Francisco Partners and TPG took New Relic private in 2023 for $6.5B"
+    },
+    "Crewline Buyer, Inc. (dba New Relic)": {
+      "sponsor": "Francisco Partners / TPG",
+      "source": "Francisco Partners and TPG took New Relic private in 2023 for $6.5B"
+    },
+    "Eagle Family Foods Group LLC": {
+      "sponsor": "Kelso & Company",
+      "source": "Kelso & Company acquired Eagle Family Foods"
+    },
+    "Experity, Inc.": {
+      "sponsor": "GTCR",
+      "source": "GTCR invested in Experity (urgent care technology)"
+    },
+    "Gainsight, Inc.": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista Equity Partners acquired Gainsight in 2020"
+    },
+    "Paris US Holdco, Inc.": {
+      "sponsor": "Centerbridge Partners",
+      "source": "Centerbridge acquired Precinmac"
+    },
+    "Paris US Holdco, Inc. (dba Precinmac)": {
+      "sponsor": "Centerbridge Partners",
+      "source": "Centerbridge acquired Precinmac (precision machining)"
+    },
+    "SpecialtyCare, Inc.": {
+      "sponsor": "Morgan Stanley Infrastructure Partners",
+      "source": "MSIP invested in SpecialtyCare (outsourced clinical services)"
+    },
+    "Spotless Brands, LLC": {
+      "sponsor": "Access Holdings",
+      "source": "Access Holdings invested in Spotless Brands (car wash)"
+    },
+    "AAM Series 1.1 Rail and Domestic Intermodal Feeder, LLC": {
+      "sponsor": "Blue Owl Capital (internal ABF vehicle)",
+      "source": "Blue Owl asset-based finance vehicle for rail/intermodal equipment"
+    },
+    "AAM Series 2.1 Aviation Feeder, LLC": {
+      "sponsor": "Blue Owl Capital (internal ABF vehicle)",
+      "source": "Blue Owl asset-based finance vehicle for aviation equipment"
+    },
+    "Blue Owl Credit SLF LLC": {
+      "sponsor": "Blue Owl Capital (internal vehicle)",
+      "source": "Blue Owl Capital internal senior loan fund, largest OBDC equity holding"
+    },
+    "Blue Owl Cross-Strategy Opportunities LLC": {
+      "sponsor": "Blue Owl Capital (internal vehicle)",
+      "source": "Blue Owl Capital internal cross-strategy investment vehicle"
+    },
+    "Blue Owl Leasing LLC": {
+      "sponsor": "Blue Owl Capital (internal vehicle)",
+      "source": "Blue Owl Capital internal leasing vehicle"
+    },
+    "Fifth Season Investments LLC": {
+      "sponsor": "Blue Owl Capital (internal vehicle)",
+      "source": "Blue Owl Capital internal investment vehicle, second-largest OBDC equity holding"
+    },
+    "Windows Entities": {
+      "sponsor": "Blue Owl Capital (internal vehicle)",
+      "source": "Blue Owl Capital internal investment vehicle"
+    },
+    "Brooklyn Lender Co-Invest 2, L.P. (dba Boomi)": {
+      "sponsor": "Francisco Partners / TPG",
+      "source": "Francisco Partners and TPG acquired Boomi from Dell in 2021 for ~$4B"
+    },
+    "Elliott Alto Co-Investor Aggregator L.P.": {
+      "sponsor": "Elliott Management",
+      "source": "Elliott Management co-investment aggregator vehicle"
+    },
+    "GrowthCurve Capital Sunrise Co-Invest LP (dba Brightway)": {
+      "sponsor": "GrowthCurve Capital",
+      "source": "GrowthCurve Capital acquired Brightway Insurance"
+    },
+    "VEPF Torreys Aggregator, LLC (dba MINDBODY, Inc.)": {
+      "sponsor": "Vista Equity Partners",
+      "source": "Vista Equity Partners acquired MINDBODY in 2019 for $1.9B"
+    },
+    "WP Irving Co-Invest, L.P.": {
+      "sponsor": "Warburg Pincus",
+      "source": "Warburg Pincus co-investment vehicle (WP = Warburg Pincus)"
+    },
+    "Baypine Commander Co-Invest, LP": {
+      "sponsor": "Baypine",
+      "source": "Baypine co-investment vehicle"
+    },
+    "Nscale Global Holdings Limited": {
+      "sponsor": "VC-backed (AI infrastructure startup)",
+      "source": "Nscale is a UK-based AI compute infrastructure company"
+    },
+    "Valor Compute Infrastructure L.P.": {
+      "sponsor": "Blue Owl Capital (co-investment)",
+      "source": "Compute infrastructure investment vehicle"
+    },
+    "Evolution BuyerCo, Inc. (dba SIAA)": {
+      "sponsor": "Aquiline Capital Partners / Lovell Minnick",
+      "source": "Aquiline and Lovell Minnick invested in SIAA (insurance agency alliance)"
+    },
+    "Evolution Parent, LP (dba SIAA)": {
+      "sponsor": "Aquiline Capital Partners / Lovell Minnick",
+      "source": "Aquiline and Lovell Minnick invested in SIAA (insurance agency alliance)"
+    },
+    "Walker Edison Furniture Company LLC": {
+      "sponsor": "Founder-owned / VC-backed",
+      "source": "Walker Edison is a founder-led D2C furniture company"
+    },
+    "Walker Edison Holdco LLC": {
+      "sponsor": "Founder-owned / VC-backed",
+      "source": "Walker Edison is a founder-led D2C furniture company"
+    },
+    "Zoro TopCo, Inc.": {
+      "sponsor": "Hellman & Friedman / Permira",
+      "source": "H&F and Permira took Zendesk private in 2022 for $10.2B; Zoro TopCo is the acquisition vehicle"
+    },
+    "Zoro TopCo, L.P.": {
+      "sponsor": "Hellman & Friedman / Permira",
+      "source": "H&F and Permira took Zendesk private in 2022 for $10.2B"
+    },
+    "ZenDesk, Inc., Zoro TopCo, Inc. and Zoro TopCo, LP": {
+      "sponsor": "Hellman & Friedman / Permira",
+      "source": "H&F and Permira took Zendesk private in 2022 for $10.2B"
+    },
+    "Surescripts, LLC": {
+      "sponsor": "Industry consortium (founded by NACDS/NCPA)",
+      "source": "Surescripts is a health IT company owned by pharmacy industry consortium"
+    },
+    "Doxim Inc.": {
+      "sponsor": "Davis + Henderson (DH Corp) / Constellation Software",
+      "source": "Doxim is a Canadian fintech for credit unions, PE-backed"
+    },
+    "Fever Labs, Inc.": {
+      "sponsor": "Goldman Sachs Growth / Goodwater Capital",
+      "source": "Fever Labs (events/entertainment platform) raised from Goldman Sachs Growth"
+    },
+    "Shoes For Crews Global, LLC": {
+      "sponsor": "Bain Capital Private Equity",
+      "source": "Bain Capital acquired Shoes For Crews in 2020"
+    },
+    "Shoes For Crews Holdings, LLC": {
+      "sponsor": "Bain Capital Private Equity",
+      "source": "Bain Capital acquired Shoes For Crews in 2020"
+    },
+    "Motor Vehicle Software Corporation": {
+      "sponsor": "Bain Capital Tech Opportunities",
+      "source": "Bain Capital invested in Motor Vehicle Software (DealerSocket/DealerBuilt)"
+    },
+    "Spindrift Beverage Co., Inc. and SBC Aggregator LP": {
+      "sponsor": "CAVU Consumer Partners",
+      "source": "CAVU Consumer Partners invested in Spindrift sparkling water"
+    },
+    "Davidson Hotel Company LLC": {
+      "sponsor": "Sun Capital Partners",
+      "source": "Sun Capital backed Davidson Hospitality (hotel management)"
+    },
+    "OTG Concessions Management, LLC and Octa Parent Holdings, LLC": {
+      "sponsor": "Centerbridge Partners",
+      "source": "Centerbridge Partners invested in OTG (airport dining)"
+    },
+    "Repairify, Inc. and Repairify Holdings, LLC": {
+      "sponsor": "Great Hill Partners",
+      "source": "Great Hill Partners invested in Repairify (auto repair technology)"
+    },
+    "Vista Higher Learning, LLC": {
+      "sponsor": "Berkshire Partners",
+      "source": "Berkshire Partners invested in Vista Higher Learning (educational publisher)"
+    },
+    "Wellington-Altus Financial Inc.": {
+      "sponsor": "Publicly traded (TSX: WAF)",
+      "source": "Wellington-Altus is publicly traded on TSX"
+    },
+    "Professional Fighters League, LLC and PFL MMA, Inc.": {
+      "sponsor": "Founder-led (Donn Davis) / Various investors",
+      "source": "PFL MMA is founder-led, backed by various investors including Waverley Capital"
+    },
+    "CST Holding Company": {
+      "sponsor": "WCAS (Welsh, Carson, Anderson & Stowe)",
+      "source": "WCAS invested in Intoxalock"
+    },
+    "Octane Purchaser, Inc.": {
+      "sponsor": "Francisco Partners",
+      "source": "Francisco Partners acquired Office Ally"
+    },
+    "Vamos Bidco, Inc.": {
+      "sponsor": "TowerBrook Capital Partners",
+      "source": "TowerBrook invested in VIP (automotive parts)"
+    },
+    "Color Intermediate, LLC": {
+      "sponsor": "Francisco Partners",
+      "source": "Francisco Partners invested in Color Health"
+    },
+    "EMB Purchaser, Inc.": {
+      "sponsor": "Summit Partners",
+      "source": "Summit Partners invested in EMB (employee benefits)"
+    },
+    "IQN Holding Corp.": {
+      "sponsor": "Odyssey Investment Partners",
+      "source": "Odyssey invested in IQNavigator (workforce management)"
+    },
+    "Koala Investment Holdings, Inc.": {
+      "sponsor": "EagleTree Capital",
+      "source": "EagleTree Capital invested via Koala Investment Holdings"
+    },
+    "Pave America Holding, LLC": {
+      "sponsor": "CenterOak Partners",
+      "source": "CenterOak Partners invested in Pave America (paving services)"
+    },
+    "Petrus Buyer, Inc.": {
+      "sponsor": "Lee Equity Partners",
+      "source": "Lee Equity Partners invested via Petrus Buyer"
+    },
+    "SG Acquisition, Inc.": {
+      "sponsor": "Bain Capital",
+      "source": "Bain Capital invested via SG Acquisition"
+    },
+    "Go Car Wash Management Corp.": {
+      "sponsor": "Leonard Green & Partners",
+      "source": "Leonard Green & Partners invested in Go Car Wash"
+    },
+    "Marcone Yellowstone Buyer, Inc.": {
+      "sponsor": "Genstar Capital",
+      "source": "Genstar Capital acquired Marcone (appliance parts distribution)"
+    },
+    "PKF O'Connor Davies Advisory, LLC": {
+      "sponsor": "New Mountain Capital",
+      "source": "New Mountain Capital invested in PKF O'Connor Davies"
+    },
+    "Point Broadband Holdings, LLC": {
+      "sponsor": "Stonepeak",
+      "source": "Stonepeak invested in Point Broadband (fiber internet)"
+    },
+    "West Star Aviation Acquisition, LLC": {
+      "sponsor": "Norwest Equity Partners",
+      "source": "Norwest Equity Partners acquired West Star Aviation (MRO services)"
+    },
+    "Carr Riggs & Ingram Capital, LLC": {
+      "sponsor": "New Mountain Capital",
+      "source": "New Mountain Capital invested in Carr, Riggs & Ingram (accounting firm)"
+    },
+    "Charger Debt Merger Sub, LLC": {
+      "sponsor": "Great Hill Partners",
+      "source": "Great Hill Partners invested via Charger Debt Merger Sub"
+    },
+    "NDT Global Holding, Inc.": {
+      "sponsor": "3i Group",
+      "source": "3i Group acquired NDT Global (pipeline inspection)"
+    },
+    "RailPros Parent, LLC": {
+      "sponsor": "ParkerGale Capital",
+      "source": "ParkerGale Capital invested in RailPros (railroad engineering)"
+    },
+    "Frontline Road Safety, LLC": {
+      "sponsor": "Avesi Partners",
+      "source": "Avesi Partners invested in Frontline Road Safety"
+    },
+    "Essential Services Holding Corp.": {
+      "sponsor": "TorquePoint Partners",
+      "source": "TorquePoint Partners invested in Essential Services (HVAC)"
+    },
+    "Home Service TopCo IV, Inc.": {
+      "sponsor": "Roark Capital",
+      "source": "Roark Capital invested in home services platform"
+    },
+    "Horizon CTS Buyer LLC": {
+      "sponsor": "Greenbriar Equity Group",
+      "source": "Greenbriar acquired Horizon CTS (avionics)"
+    },
+    "Horizon CTS Buyer, LLC": {
+      "sponsor": "Greenbriar Equity Group",
+      "source": "Greenbriar acquired Horizon CTS (avionics)"
+    },
+    "Med-Metrix": {
+      "sponsor": "Frazier Healthcare Partners",
+      "source": "Frazier Healthcare Partners invested in Med-Metrix (RCM)"
+    },
+    "Lido Advisors LLC, Class A Common Stock": {
+      "sponsor": "Charlesbank Capital Partners",
+      "source": "Charlesbank invested in Lido Advisors (wealth management)"
+    },
+    "Lido Advisors LLC, Class Z Preferred Stock": {
+      "sponsor": "Charlesbank Capital Partners",
+      "source": "Charlesbank invested in Lido Advisors (wealth management)"
+    },
+    "NCI Inc": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital invested in NCI Information Systems"
+    },
+    "NCI Inc, Class A-1 Common Stock": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital invested in NCI Information Systems"
+    },
+    "NCI Inc, Class B-1 Common Stock": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital invested in NCI Information Systems"
+    },
+    "NCI Inc, Class C Common Stock": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital invested in NCI Information Systems"
+    },
+    "NCI Inc, Class I-1 Common Stock": {
+      "sponsor": "H.I.G. Capital",
+      "source": "H.I.G. Capital invested in NCI Information Systems"
+    },
+    "Orion Services Group": {
+      "sponsor": "Centre Partners",
+      "source": "Centre Partners invested in Orion Services Group"
+    },
+    "PSC Group": {
+      "sponsor": "Grey Mountain Partners",
+      "source": "Grey Mountain Partners invested in PSC Group (industrial services)"
+    },
+    "Railpros Inc": {
+      "sponsor": "ParkerGale Capital",
+      "source": "ParkerGale Capital invested in RailPros (railroad engineering)"
+    },
+    "Revere Superior Holdings Inc": {
+      "sponsor": "Audax Private Equity",
+      "source": "Audax invested in Revere Superior Holdings"
+    },
+    "Guidepoint Security Holdings, LLC": {
+      "sponsor": "Enlightenment Capital",
+      "source": "Enlightenment Capital invested in Guidepoint Security"
+    }
+  },
+  "metadata": {
+    "bdc": "GSBD",
+    "total_companies": 179,
+    "companies_with_sponsors": 117,
+    "companies_unknown": 62,
+    "research_date": "2026-03-16",
+    "notes": "Many companies appear multiple times under different legal entities (holdco/midco/opco/topco structures). Entity name prefixes often encode the PE sponsor: BCPE = Bain Capital Private Equity, BCTO = Bain Capital Tech Opportunities, AQ = Aquiline, KDOR = Kohlberg, etc."
+  }
+}

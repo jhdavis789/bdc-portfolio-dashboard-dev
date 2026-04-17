@@ -1,0 +1,115 @@
+{
+  "ticker": "OSCF",
+  "as_of": "2025-09-30",
+  "source": "OSCF 10-K, accession 0001872371-25-000018",
+  "generated": "2026-04-15T15:58:56Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "ING Credit Agreement | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 370000.0,
+      "aggregate_principal_k": 1235000.0,
+      "available_k": 0.375,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.875%",
+      "maturity": null
+    },
+    {
+      "facility": "JPM SPV Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 566000.0,
+      "aggregate_principal_k": 700000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.5%",
+      "maturity": null
+    },
+    {
+      "facility": "SMBC SPV Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 100000.0,
+      "aggregate_principal_k": 150000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 50.0%",
+      "maturity": null
+    },
+    {
+      "facility": "CIBC SPV Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 225000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.5%",
+      "maturity": null
+    },
+    {
+      "facility": "DBNY SPV Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 280000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.6%",
+      "maturity": null
+    },
+    {
+      "facility": "MS SPV Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 133400.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.6%",
+      "maturity": null
+    },
+    {
+      "facility": "Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1150.0,
+      "aggregate_principal_k": 1150000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1155.0,
+      "rate": "Fixed 8.4%",
+      "maturity": null
+    },
+    {
+      "facility": "2028 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 355100.0,
+      "rate": null,
+      "maturity": "2028"
+    },
+    {
+      "facility": "2029 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 400900.0,
+      "rate": null,
+      "maturity": "2029"
+    },
+    {
+      "facility": "2030 Notes | Unsecured Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 399200.0,
+      "rate": null,
+      "maturity": "2030"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 2825550.0,
+    "total_commitment_k": 4385000.0,
+    "total_available_k": 0.375
+  }
+}

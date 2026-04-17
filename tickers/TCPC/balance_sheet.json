@@ -1,0 +1,115 @@
+{
+  "ticker": "TCPC",
+  "as_of": "2025-12-31",
+  "source": "TCPC 10-K, accession 0001193125-26-079299",
+  "generated": "2026-03-31T19:59:27Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "SOFR",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 140000.0,
+      "rate": "Fixed 0.1%",
+      "maturity": null
+    },
+    {
+      "facility": "Operating Facility | SOFR",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 146213.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Funding Facility II | SOFR",
+      "type": "secured_spv",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 100000.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Merger Sub Facility | SOFR",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 36000.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures",
+      "type": "sba_debenture",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 111200.0,
+      "rate": "Fixed 2.41%",
+      "maturity": null
+    },
+    {
+      "facility": "2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 92000.0,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 325033.0,
+      "rate": "Fixed 2.85%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 322396.0,
+      "rate": "Fixed 6.95%",
+      "maturity": "2029"
+    },
+    {
+      "facility": "Interest Rate of EURIBOR +",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 2900.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "Interest Rate of CORRA +",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 3300.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": null,
+    "total_commitment_k": null,
+    "total_available_k": null
+  }
+}

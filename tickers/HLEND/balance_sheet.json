@@ -1,0 +1,175 @@
+{
+  "ticker": "HLEND",
+  "as_of": "2025-12-31",
+  "source": "HLEND 10-K, accession 0001628280-26-020206",
+  "generated": "2026-04-15T15:58:42Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "HLEND A Funding Facility | Line of credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 196143.0,
+      "net_carrying_value_k": 683184.0,
+      "rate": "SOFR + 1.75%",
+      "maturity": null
+    },
+    {
+      "facility": "HLEND B Funding Facility | Line of credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 225397.0,
+      "net_carrying_value_k": 955572.0,
+      "rate": "SOFR + 1.75%",
+      "maturity": null
+    },
+    {
+      "facility": "HLEND C Funding Facility | Line of credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 12656.0,
+      "net_carrying_value_k": 487500.0,
+      "rate": "SOFR + 1.9%",
+      "maturity": null
+    },
+    {
+      "facility": "HLEND D Funding Facility | Line of credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 76088.0,
+      "net_carrying_value_k": 830343.0,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "HLEND E Funding Facility | Line of credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 218848.0,
+      "net_carrying_value_k": 642800.0,
+      "rate": "SOFR + 1.85%",
+      "maturity": null
+    },
+    {
+      "facility": "November 2025 notes | Senior notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 85000.0,
+      "rate": "SOFR + 4.08%",
+      "maturity": "November 2025"
+    },
+    {
+      "facility": "November 2027 notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 77500.0,
+      "rate": "SOFR + 3.87%",
+      "maturity": "November 2027"
+    },
+    {
+      "facility": "March 2026 notes | Senior notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 276000.0,
+      "rate": "SOFR + 3.761%",
+      "maturity": "March 2026"
+    },
+    {
+      "facility": "March 2028 notes | Senior notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 124000.0,
+      "rate": "SOFR + 4.241%",
+      "maturity": "March 2028"
+    },
+    {
+      "facility": "September 2027 notes | Senior notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 75000.0,
+      "rate": "SOFR + 4.3055%",
+      "maturity": "September 2027"
+    },
+    {
+      "facility": "September 2028 notes | Senior notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 250000.0,
+      "rate": "SOFR + 4.5365%",
+      "maturity": "September 2028"
+    },
+    {
+      "facility": "January 2029 notes | Senior notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 530894.0,
+      "rate": null,
+      "maturity": "January 2029"
+    },
+    {
+      "facility": "September 2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 390055.0,
+      "rate": null,
+      "maturity": "September 2029"
+    },
+    {
+      "facility": "Senior secured revolving credit facility | Line of credit",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 507894.0,
+      "net_carrying_value_k": 1186.0,
+      "rate": "SOFR + 1.525%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO Secured notes 2023 | Senior notes",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 320018.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO Secured Notes 2024 | Senior notes",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 376280.0,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": null,
+    "total_commitment_k": null,
+    "total_available_k": 1237026.0
+  }
+}

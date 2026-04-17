@@ -1,0 +1,105 @@
+{
+  "ticker": "KBDC",
+  "as_of": "2025-12-31",
+  "source": "KBDC 10-K, accession 0001213900-26-022392",
+  "generated": "2026-03-31T19:58:13Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Senior Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 275000.0,
+      "aggregate_principal_k": 275000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.77%",
+      "maturity": null
+    },
+    {
+      "facility": "Corporate Credit Facility [Member]",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 234921.0,
+      "aggregate_principal_k": 475000.0,
+      "available_k": null,
+      "net_carrying_value_k": 131628.0,
+      "rate": "Fixed 6.35%",
+      "maturity": null
+    },
+    {
+      "facility": "Corporate Credit Facility [Member] | Borrowings [Member]",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 135000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.87%",
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Funding Facility [Member]",
+      "type": "secured_spv",
+      "outstanding_principal_k": 525000.0,
+      "aggregate_principal_k": 675000.0,
+      "available_k": null,
+      "net_carrying_value_k": 520329.0,
+      "rate": "Fixed 6.44%",
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Funding Facility [Member] | Borrowings [Member]",
+      "type": "secured_spv",
+      "outstanding_principal_k": 531522.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.81%",
+      "maturity": null
+    },
+    {
+      "facility": "Revolving Funding Facility II [Member]",
+      "type": "secured_spv",
+      "outstanding_principal_k": 170178.0,
+      "aggregate_principal_k": 250000.0,
+      "available_k": null,
+      "net_carrying_value_k": 192900.0,
+      "rate": "Fixed 6.51%",
+      "maturity": null
+    },
+    {
+      "facility": "Private Placement [Member] | Series C Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 40000.0,
+      "aggregate_principal_k": 40000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Private Placement [Member] | Senior Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 200000.0,
+      "aggregate_principal_k": 200000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 275000.0,
+      "aggregate_principal_k": 275000.0,
+      "available_k": null,
+      "net_carrying_value_k": 272141.0,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 2386621.0,
+    "total_commitment_k": 2190000.0,
+    "total_available_k": null
+  }
+}

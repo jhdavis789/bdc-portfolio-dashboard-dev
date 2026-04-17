@@ -1,0 +1,95 @@
+{
+  "ticker": "BBDC",
+  "as_of": "2025-12-31",
+  "source": "BBDC 10-K, accession 0001379785-26-000009",
+  "generated": "2026-03-31T20:02:16Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "September 24, 2020 - August 2025 Notes | Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 25000.0,
+      "aggregate_principal_k": 25000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 0.0%",
+      "maturity": "2020"
+    },
+    {
+      "facility": "November 5, 2020 - Series B Notes | Notes",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 62500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 0.0%",
+      "maturity": null
+    },
+    {
+      "facility": "November 5, 2020 - Series C Notes | Notes",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 112500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.75%",
+      "maturity": null
+    },
+    {
+      "facility": "February 25, 2021 Series D Notes | Notes",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 80000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.41%",
+      "maturity": null
+    },
+    {
+      "facility": "February 25, 2021 Series E Notes | Notes",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 70000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.06%",
+      "maturity": null
+    },
+    {
+      "facility": "November 23, 2021 - November 2026 Notes | Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.3%",
+      "maturity": "2021"
+    },
+    {
+      "facility": "February 12, 2024 - February 2029 Notes | Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.0%",
+      "maturity": "2024"
+    },
+    {
+      "facility": "September 15, 2025 - September 2028 Notes | Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.2%",
+      "maturity": "2025"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 975000.0,
+    "total_commitment_k": 1300000.0,
+    "total_available_k": null
+  }
+}

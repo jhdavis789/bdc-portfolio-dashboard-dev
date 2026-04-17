@@ -1,0 +1,35 @@
+{
+  "ticker": "PSEC",
+  "as_of": "2025-06-30",
+  "source": "PSEC 10-K, accession 0001287032-25-000232",
+  "generated": "2026-03-31T19:59:07Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2022 Notes | Convertible Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 103500.0,
+      "aggregate_principal_k": 103500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.95%",
+      "maturity": "2022"
+    },
+    {
+      "facility": "2025 Notes | Convertible Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 26250.0,
+      "aggregate_principal_k": 26250.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.375%",
+      "maturity": "2025"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 129750.0,
+    "total_commitment_k": 129750.0,
+    "total_available_k": null
+  }
+}

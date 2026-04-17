@@ -1,0 +1,385 @@
+{
+  "ticker": "ASIF",
+  "as_of": "2025-12-31",
+  "source": "ASIF 10-K, accession 0001918712-26-000018",
+  "generated": "2026-04-15T15:58:05Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Revolving Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 2523737.0,
+      "aggregate_principal_k": 3250000.0,
+      "available_k": null,
+      "net_carrying_value_k": 2525642.0,
+      "rate": "Fixed 0.1%",
+      "maturity": null
+    },
+    {
+      "facility": "SG Funding Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 612811.0,
+      "aggregate_principal_k": 1825000.0,
+      "available_k": null,
+      "net_carrying_value_k": 612811.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SB Funding Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": 400000.0,
+      "rate": "Fixed 1.9%",
+      "maturity": null
+    },
+    {
+      "facility": "BNP Funding Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 250.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 900000.0,
+      "rate": "Fixed 1.3%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 CLO Secured Notes | Line of Credit",
+      "type": "clo",
+      "outstanding_principal_k": 476000.0,
+      "aggregate_principal_k": 476000.0,
+      "available_k": null,
+      "net_carrying_value_k": 473310.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 CLO Debt",
+      "type": "clo",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 499100.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.44%",
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 CLO Debt | Unsecured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": 348196.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 CLO Debt | Unsecured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 532000.0,
+      "aggregate_principal_k": 532000.0,
+      "available_k": null,
+      "net_carrying_value_k": 529820.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "March 2028 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1004008.0,
+      "rate": "Fixed 5.399%",
+      "maturity": "March 2028"
+    },
+    {
+      "facility": "September 2028 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 600000.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": 597103.0,
+      "rate": "Fixed 5.524%",
+      "maturity": "September 2028"
+    },
+    {
+      "facility": "January 2029 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 600000.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": 589036.0,
+      "rate": "Fixed 5.372%",
+      "maturity": "January 2029"
+    },
+    {
+      "facility": "August 2029 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 700000.0,
+      "aggregate_principal_k": 700000.0,
+      "available_k": null,
+      "net_carrying_value_k": 705261.0,
+      "rate": "Fixed 5.958%",
+      "maturity": "August 2029"
+    },
+    {
+      "facility": "February 2030 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 750000.0,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": 731239.0,
+      "rate": "Fixed 6.052%",
+      "maturity": "February 2030"
+    },
+    {
+      "facility": "September 2030 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 496117.0,
+      "rate": "Fixed 5.826%",
+      "maturity": "September 2030"
+    },
+    {
+      "facility": "January 2031 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 483459.0,
+      "rate": "Fixed 5.15%",
+      "maturity": "January 2031"
+    },
+    {
+      "facility": "March 2032 Notes | Unsecured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 750000.0,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": 764594.0,
+      "rate": "Fixed 5.563%",
+      "maturity": "March 2032"
+    },
+    {
+      "facility": "SG Funding Facility | Line of Credit | Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 1268750.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 694100.0,
+      "aggregate_principal_k": 694100.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.62%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 CLO Subordinated Notes",
+      "type": "clo",
+      "outstanding_principal_k": 218100.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 CLO Subordinated Notes | Subordinated Debt",
+      "type": "clo",
+      "outstanding_principal_k": 218100.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 Class A-1 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 399000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.58%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 Class A-2 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 35000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.75%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2037 Class B CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 42000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.85%",
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 Class A-1 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 210000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.38%",
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 Class A-1A CLO Loans",
+      "type": "clo",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.38%",
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 Class A-2 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 15000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.6%",
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 Class B CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.7%",
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 CLO Subordinated Notes",
+      "type": "clo",
+      "outstanding_principal_k": 149100.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "April 2038 CLO Subordinated Notes | Subordinated Debt",
+      "type": "clo",
+      "outstanding_principal_k": 149100.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 CLO Debt",
+      "type": "clo",
+      "outstanding_principal_k": 696400.0,
+      "aggregate_principal_k": 696400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.5%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 Class A-1 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 356000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.4%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 CLO Loans",
+      "type": "clo",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.4%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 Class A-2 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 28000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.6%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 Class B Senior Notes | Secured Debt",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 42000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "January 2039"
+    },
+    {
+      "facility": "January 2039 Class C CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 56000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "January 2039 CLO Subordinated Notes | Subordinated Debt",
+      "type": "clo",
+      "outstanding_principal_k": 164400.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Total January 2039 CLO Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 532000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 14824098.0,
+    "total_commitment_k": 16741350.0,
+    "total_available_k": null
+  }
+}

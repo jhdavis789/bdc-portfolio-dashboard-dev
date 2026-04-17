@@ -1,0 +1,65 @@
+{
+  "ticker": "BCSF",
+  "as_of": "2025-12-31",
+  "source": "BCSF 10-K, accession 0001193125-26-077703",
+  "generated": "2026-03-31T19:57:02Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2019-1 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 272000.0,
+      "aggregate_principal_k": 272000.0,
+      "available_k": null,
+      "net_carrying_value_k": 270224.0,
+      "rate": null,
+      "maturity": "2019"
+    },
+    {
+      "facility": "March 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 299786.0,
+      "rate": "Fixed 2.95%",
+      "maturity": "March 2026"
+    },
+    {
+      "facility": "October 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 298926.0,
+      "rate": "Fixed 2.55%",
+      "maturity": "October 2026"
+    },
+    {
+      "facility": "March 2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": 350860.0,
+      "rate": "SOFR + 1.9%",
+      "maturity": "March 2030"
+    },
+    {
+      "facility": "Sumitomo Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 251000.0,
+      "aggregate_principal_k": 855000.0,
+      "available_k": null,
+      "net_carrying_value_k": 251000.0,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 1473000.0,
+    "total_commitment_k": 2077000.0,
+    "total_available_k": null
+  }
+}

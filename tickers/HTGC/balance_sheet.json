@@ -1,0 +1,405 @@
+{
+  "ticker": "HTGC",
+  "as_of": "2025-12-31",
+  "source": "HTGC 10-K, accession 0001280784-26-000009",
+  "generated": "2026-03-31T19:58:09Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "SBA Debentures",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 341012.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "February 2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 4.28%",
+      "maturity": "February 2025"
+    },
+    {
+      "facility": "June 2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 4.31%",
+      "maturity": "June 2025"
+    },
+    {
+      "facility": "June 2025 3-Year Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 6.0%",
+      "maturity": "June 2025"
+    },
+    {
+      "facility": "March 2026 A Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 49984.0,
+      "rate": "Fixed 4.5%",
+      "maturity": "March 2026"
+    },
+    {
+      "facility": "March 2026 B Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 49983.0,
+      "rate": "Fixed 4.55%",
+      "maturity": "March 2026"
+    },
+    {
+      "facility": "September 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 324302.0,
+      "rate": "Fixed 2.625%",
+      "maturity": "September 2026"
+    },
+    {
+      "facility": "January 2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 348596.0,
+      "rate": "Fixed 3.375%",
+      "maturity": "January 2027"
+    },
+    {
+      "facility": "2028 Convertible Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 280412.0,
+      "rate": "Fixed 4.75%",
+      "maturity": "2028"
+    },
+    {
+      "facility": "June 2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 342694.0,
+      "rate": "Fixed 6.0%",
+      "maturity": "June 2030"
+    },
+    {
+      "facility": "2031 Asset-Backed Notes(2)",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 64530.0,
+      "rate": "Fixed 4.95%",
+      "maturity": "2031"
+    },
+    {
+      "facility": "2033 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 39151.0,
+      "rate": "Fixed 6.25%",
+      "maturity": "2033"
+    },
+    {
+      "facility": "MUFG Bank Facility",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 168000.0,
+      "rate": "SOFR + 2.5%",
+      "maturity": null
+    },
+    {
+      "facility": "SMBC Facility",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": 0.375,
+      "net_carrying_value_k": 277780.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "SMBC Facility | Term Loan",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": 24800.0,
+      "rate": "Fixed 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on March 26, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 37500.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.58%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on June 25, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 16200.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.58%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on July 28, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 5400.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.58%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on August 20, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 5400.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 1.58%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on October 21, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 14000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on November 1, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 21000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on November 15, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 5200.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on November 30, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 20800.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on December 20, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 10000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on December 23, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 10000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on December 28, 2021",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 5000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on January 14, 2022",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 4500.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on January 21, 2022",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 20000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.21%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on November 8, 2024",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 30000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.09%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on December 6, 2024",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 33600.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.09%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on December 12, 2024",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 8400.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.09%",
+      "maturity": null
+    },
+    {
+      "facility": "SBA Debentures Issued on December 20, 2024",
+      "type": "sba_debenture",
+      "outstanding_principal_k": 32000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.09%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on February 5, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 6000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.09%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on March 28, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 10000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.66%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on April 25, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 15000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.66%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on May 9, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 5000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.66%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on June 5, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 17000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.66%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on June 12, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 3000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.66%",
+      "maturity": null
+    },
+    {
+      "facility": "S B A Debentures Issued on June 25, 2025",
+      "type": "unknown",
+      "outstanding_principal_k": 15000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.66%",
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 700000.0,
+    "total_commitment_k": null,
+    "total_available_k": 0.375
+  }
+}

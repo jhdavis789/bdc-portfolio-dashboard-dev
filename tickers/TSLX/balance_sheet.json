@@ -1,0 +1,85 @@
+{
+  "ticker": "TSLX",
+  "as_of": "2025-12-31",
+  "source": "TSLX 10-K, accession 0001193125-26-048664",
+  "generated": "2026-03-31T20:02:13Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "2023 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 150000.0,
+      "aggregate_principal_k": 150000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.5%",
+      "maturity": "2023"
+    },
+    {
+      "facility": "2024 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.875%",
+      "maturity": "2024"
+    },
+    {
+      "facility": "2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 293530.0,
+      "rate": "Fixed 2.5%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "2028 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 301216.0,
+      "rate": "Fixed 6.95%",
+      "maturity": "2028"
+    },
+    {
+      "facility": "2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": 347985.0,
+      "rate": "Fixed 6.125%",
+      "maturity": "2029"
+    },
+    {
+      "facility": "2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300000.0,
+      "aggregate_principal_k": 300000.0,
+      "available_k": null,
+      "net_carrying_value_k": 301724.0,
+      "rate": "Fixed 5.625%",
+      "maturity": "2030"
+    },
+    {
+      "facility": "Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 513915.0,
+      "aggregate_principal_k": 1675000.0,
+      "available_k": 1139337.0,
+      "net_carrying_value_k": 498779.0,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 1963915.0,
+    "total_commitment_k": 3125000.0,
+    "total_available_k": 1139337.0
+  }
+}

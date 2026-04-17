@@ -1,0 +1,115 @@
+{
+  "ticker": "SLRC",
+  "as_of": "2025-12-31",
+  "source": "SLRC 10-K, accession 0001193125-26-066979",
+  "generated": "2026-03-31T19:59:19Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Credit Facility [Member]",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 505386.0,
+      "available_k": null,
+      "net_carrying_value_k": 499287.0,
+      "rate": "Fixed 3.9%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Credit Facility [Member]",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 165050.0,
+      "available_k": null,
+      "net_carrying_value_k": 163975.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "2025 Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 0.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2025"
+    },
+    {
+      "facility": "2026 Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": 75000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.375%",
+      "maturity": "2026"
+    },
+    {
+      "facility": "2027 Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.95%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2027 Series F Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 135000.0,
+      "aggregate_principal_k": 135000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.33%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2027 Series G Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 49000.0,
+      "aggregate_principal_k": 49000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.24%",
+      "maturity": "2027"
+    },
+    {
+      "facility": "2028 Series H Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2028"
+    },
+    {
+      "facility": "2028 Series I Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 50000.0,
+      "aggregate_principal_k": 50000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2028"
+    },
+    {
+      "facility": "2028 Series J Unsecured Notes [Member]",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 75000.0,
+      "aggregate_principal_k": 75000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": "2028"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 484000.0,
+    "total_commitment_k": 1154436.0,
+    "total_available_k": null
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "ticker": "ARCC",
+  "as_of": "2025-12-31",
+  "source": "ARCC 10-K, accession 0001287750-26-000006",
+  "generated": "2026-03-31T19:56:50Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 2028000.0,
+      "aggregate_principal_k": 850.0,
+      "available_k": 3411000.0,
+      "net_carrying_value_k": 2031000.0,
+      "rate": "Fixed 1.75%",
+      "maturity": null
+    },
+    {
+      "facility": "SMBC Funding Facility",
+      "type": "secured_spv",
+      "outstanding_principal_k": 563000.0,
+      "aggregate_principal_k": 1100000.0,
+      "available_k": null,
+      "net_carrying_value_k": 563000.0,
+      "rate": "Fixed 1.8%",
+      "maturity": "Number of debt maturity extensions | extensionOption"
+    },
+    {
+      "facility": "April 2036 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 702000.0,
+      "aggregate_principal_k": 476000.0,
+      "available_k": null,
+      "net_carrying_value_k": 473000.0,
+      "rate": "Fixed 1.86%",
+      "maturity": null
+    },
+    {
+      "facility": "Line of Credit | Revolving Funding Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 1234000.0,
+      "aggregate_principal_k": 2250000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1234000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Line of Credit | BNP Funding Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 717000.0,
+      "aggregate_principal_k": 1265000.0,
+      "available_k": null,
+      "net_carrying_value_k": 717000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Secured Debt | October 2036 CLO Secured Loans",
+      "type": "clo",
+      "outstanding_principal_k": 544000.0,
+      "aggregate_principal_k": 544000.0,
+      "available_k": null,
+      "net_carrying_value_k": 541000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Secured Debt | January 2038 CLO Notes",
+      "type": "clo",
+      "outstanding_principal_k": 700000.0,
+      "aggregate_principal_k": 700000.0,
+      "available_k": null,
+      "net_carrying_value_k": 697000.0,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Senior Notes | March 2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 0.0,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 4.25%",
+      "maturity": "March 2025"
+    },
+    {
+      "facility": "Senior Notes | July 2025 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": 0.0,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 3.25%",
+      "maturity": "July 2025"
+    },
+    {
+      "facility": "Senior Notes | January 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1150000.0,
+      "aggregate_principal_k": 1150000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1150000.0,
+      "rate": "Fixed 3.875%",
+      "maturity": "January 2026"
+    },
+    {
+      "facility": "Senior Notes | July 2026 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 999000.0,
+      "rate": "Fixed 2.15%",
+      "maturity": "July 2026"
+    },
+    {
+      "facility": "Senior Notes | January 2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 900000.0,
+      "aggregate_principal_k": 900000.0,
+      "available_k": null,
+      "net_carrying_value_k": 900000.0,
+      "rate": "Fixed 6.331%",
+      "maturity": "January 2027"
+    },
+    {
+      "facility": "Senior Notes | June 2027 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": 498000.0,
+      "rate": "Fixed 2.875%",
+      "maturity": "June 2027"
+    },
+    {
+      "facility": "Senior Notes | June 2028 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1250000.0,
+      "aggregate_principal_k": 1250000.0,
+      "available_k": null,
+      "net_carrying_value_k": 1248000.0,
+      "rate": "Fixed 2.875%",
+      "maturity": "June 2028"
+    },
+    {
+      "facility": "Senior Notes | March 2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 999000.0,
+      "rate": "Fixed 5.895%",
+      "maturity": "March 2029"
+    },
+    {
+      "facility": "Senior Notes | July 2029 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 850000.0,
+      "aggregate_principal_k": 850000.0,
+      "available_k": null,
+      "net_carrying_value_k": 861000.0,
+      "rate": "Fixed 5.393%",
+      "maturity": "July 2029"
+    },
+    {
+      "facility": "Senior Notes | September 2030 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 750000.0,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 5.643%",
+      "maturity": "September 2030"
+    },
+    {
+      "facility": "Senior Notes | January 2031 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": 634000.0,
+      "rate": "Fixed 5.1%",
+      "maturity": "January 2031"
+    },
+    {
+      "facility": "Senior Notes | November 2031 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 700000.0,
+      "aggregate_principal_k": 700000.0,
+      "available_k": null,
+      "net_carrying_value_k": 693000.0,
+      "rate": "Fixed 3.2%",
+      "maturity": "November 2031"
+    },
+    {
+      "facility": "Senior Notes | March 2032 Notes",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": 0.0,
+      "rate": "Fixed 5.8%",
+      "maturity": "March 2032"
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 16238000.0,
+    "total_commitment_k": 16085850.0,
+    "total_available_k": 3411000.0
+  }
+}

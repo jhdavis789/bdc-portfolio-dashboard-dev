@@ -1,0 +1,135 @@
+{
+  "ticker": "FSK",
+  "as_of": "2025-12-31",
+  "source": "FSK 10-K, accession 0001628280-26-011734",
+  "generated": "2026-03-31T19:57:33Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "4.125% Notes due 2025",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 45000.0,
+      "aggregate_principal_k": 45000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.125%",
+      "maturity": "due 2025"
+    },
+    {
+      "facility": "4.250% Unsecured Notes due 2025",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 475000.0,
+      "aggregate_principal_k": 475000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.25%",
+      "maturity": "due 2025"
+    },
+    {
+      "facility": "8.625% Notes due 2025",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 250000.0,
+      "aggregate_principal_k": 250000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 8.625%",
+      "maturity": "due 2025"
+    },
+    {
+      "facility": "3.400% Notes due 2026",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.4%",
+      "maturity": "due 2026"
+    },
+    {
+      "facility": "2.625% Notes due 2027",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 2.625%",
+      "maturity": "due 2027"
+    },
+    {
+      "facility": "3.250% Notes due 2027",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.25%",
+      "maturity": "due 2027"
+    },
+    {
+      "facility": "3.125% Notes due 2028",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 750000.0,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.125%",
+      "maturity": "due 2028"
+    },
+    {
+      "facility": "7.875% Notes due 2029",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.875%",
+      "maturity": "due 2029"
+    },
+    {
+      "facility": "6.875% Notes due 2029",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 600000.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.875%",
+      "maturity": "due 2029"
+    },
+    {
+      "facility": "6.125% Notes due 2030",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 100000.0,
+      "aggregate_principal_k": 100000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.125%",
+      "maturity": "due 2030"
+    },
+    {
+      "facility": "6.125% Notes due 2031",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 400000.0,
+      "aggregate_principal_k": 400000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.125%",
+      "maturity": "due 2031"
+    },
+    {
+      "facility": "Senior Secured Revolving Credit Facility",
+      "type": "secured_revolver",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 87100.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 4920000.0,
+    "total_commitment_k": 5007100.0,
+    "total_available_k": null
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "ticker": "OCIC",
+  "as_of": "2025-12-31",
+  "source": "OCIC 10-K, accession 0001812554-26-000011",
+  "generated": "2026-04-15T15:58:50Z",
+  "generated_by": "build_balance_sheets.py (SEC EDGAR XBRL R-files)",
+  "units": "all dollar amounts in thousands unless noted",
+  "borrowing_details": [
+    {
+      "facility": "SPV Asset Facility I | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 238600.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility II | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 932000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.15%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility III | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 1233500.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.3%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility IV | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 175000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility V | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 606250.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.05%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility VI | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 646000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility VII | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 463585.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility VIII | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 587500.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility IX | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 230000.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.95%",
+      "maturity": null
+    },
+    {
+      "facility": "SPV Asset Facility X | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 0.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 0.5%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 375000.0,
+      "aggregate_principal_k": 375000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XI | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 260000.0,
+      "aggregate_principal_k": 260000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XII | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 260000.0,
+      "aggregate_principal_k": 260000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XV | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 312000.0,
+      "aggregate_principal_k": 312000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.2%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVI | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 420000.0,
+      "aggregate_principal_k": 420000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVII | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 325000.0,
+      "aggregate_principal_k": 325000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVIII | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 260000.0,
+      "aggregate_principal_k": 260000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XIX | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 260000.0,
+      "aggregate_principal_k": 260000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XXII | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": 737500.0,
+      "aggregate_principal_k": 737500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "March 2025 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.5%",
+      "maturity": "March 2025"
+    },
+    {
+      "facility": "September 2026 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 350000.0,
+      "aggregate_principal_k": 350000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 3.125%",
+      "maturity": "September 2026"
+    },
+    {
+      "facility": "February 2027 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.7%",
+      "maturity": "February 2027"
+    },
+    {
+      "facility": "September 2027 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 600000.0,
+      "aggregate_principal_k": 600000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.75%",
+      "maturity": "September 2027"
+    },
+    {
+      "facility": "AUD 2027 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 300771.0,
+      "aggregate_principal_k": 300771.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.5%",
+      "maturity": "AUD 2027"
+    },
+    {
+      "facility": "May 2028 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 500000.0,
+      "aggregate_principal_k": 500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.9%",
+      "maturity": "May 2028"
+    },
+    {
+      "facility": "June 2028 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 650000.0,
+      "aggregate_principal_k": 650000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.95%",
+      "maturity": "June 2028"
+    },
+    {
+      "facility": "January 2029 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 550000.0,
+      "aggregate_principal_k": 550000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 7.75%",
+      "maturity": "January 2029"
+    },
+    {
+      "facility": "September 2029 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 900000.0,
+      "aggregate_principal_k": 900000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.6%",
+      "maturity": "September 2029"
+    },
+    {
+      "facility": "March 2030 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 1000000.0,
+      "aggregate_principal_k": 1000000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 5.8%",
+      "maturity": "March 2030"
+    },
+    {
+      "facility": "EUR 2031 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 587218.0,
+      "aggregate_principal_k": 587218.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.25%",
+      "maturity": "EUR 2031"
+    },
+    {
+      "facility": "March 2031 Notes | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 750000.0,
+      "aggregate_principal_k": 750000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.65%",
+      "maturity": "March 2031"
+    },
+    {
+      "facility": "Revolving Credit Facility | Revolving Credit Facility | Line of Credit",
+      "type": "secured_revolver",
+      "outstanding_principal_k": 995268.0,
+      "aggregate_principal_k": null,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO VIII Issuer",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 143000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO VIII Issuer | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 192300.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XI Issuer",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 96400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XI Issuer | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 260600.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XII Issuer",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 78000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XII Issuer | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 295700.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XV",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 115400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XV | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 329700.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XVI",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 206600.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XVI | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 356500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XVII",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 463200.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XVII | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 12000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XVIII",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 246200.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XVIII | Core Income Funding I LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 146400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XIX Issuer",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 301200.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XIX Issuer | Core Income Funding III LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 56200.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XXII Issuer",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 496740.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Middle Market Loans | CLO XXII Issuer | Core Income Funding IV LLC",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 457599.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII, Class A -T Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 152000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.5%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII, Class A-F Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 46000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.02%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII, Class B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 32000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.5%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII, Class C Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 30000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 4.9%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII , Class A -1R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 275000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.49%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII , Class A -2R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 30000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII , Class B-R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 35000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.9%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO VIII , Class C-R Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 35000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.4%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XI , Class A -T Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 152500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.5%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XI, Class A-F Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 25500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.1%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XI, Class B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 32000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.6%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XII , Class A -A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 90000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.55%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XII , Class A -1B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 22000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "Fixed 6.37%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XII, Class A-2 Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 8000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.1%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XII, Class B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 24000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 3.55%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XV , Class A | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 273600.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "CLO XV , Class B | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 38400.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.3%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVI , Class A | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 342000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.0%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVI , Class B | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 48000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.5%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVII, Class A-1 | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 275000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.68%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVII , Class A-2 | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 25000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.85%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVIII , Class A | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 178000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.7%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XVIII , Class B | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 32000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.95%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XIX , Class A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 153000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.65%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XIX, Class B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 32000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.9%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XXII , Class A Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 415000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.47%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XXII, Class B Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 90000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 1.8%",
+      "maturity": null
+    },
+    {
+      "facility": "CLO XXII, Class C Notes | Secured Debt",
+      "type": "clo",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 57500.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": "SOFR + 2.2%",
+      "maturity": null
+    },
+    {
+      "facility": "Australian Debt Issuance Program | Unsecured debt investments",
+      "type": "unknown",
+      "outstanding_principal_k": null,
+      "aggregate_principal_k": 2500000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    },
+    {
+      "facility": "Global Medium Term Notes Program | Unsecured debt investments",
+      "type": "unsecured_notes",
+      "outstanding_principal_k": 5000000.0,
+      "aggregate_principal_k": 5000000.0,
+      "available_k": null,
+      "net_carrying_value_k": null,
+      "rate": null,
+      "maturity": null
+    }
+  ],
+  "debt_summary": {
+    "total_outstanding_k": 21505192.0,
+    "total_commitment_k": 25099728.0,
+    "total_available_k": null
+  }
+}
